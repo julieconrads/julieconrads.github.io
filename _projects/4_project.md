@@ -36,4 +36,4 @@ Fieldwork: May 2026.
 
 ---
 
-*This project is part of a broader research initiative on Quagga mussel morphology led by [Joana L. Santos](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/joana-l-santos/show/) (Eawag).*
+_This project is part of a broader research initiative on Quagga mussel morphology led by [Joana L. Santos](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/joana-l-santos/show/) (Eawag)._

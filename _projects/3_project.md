@@ -10,7 +10,7 @@ related_publications: false
 
 ## Overview
 
-Quagga mussels (*Dreissena rostriformis bugensis*) have colonised Lake Constance from the surface down to several hundred metres depth. Shallow populations are well-studied and clearly reproducing. But what about the deep ones?
+Quagga mussels (_Dreissena rostriformis bugensis_) have colonised Lake Constance from the surface down to several hundred metres depth. Shallow populations are well-studied and clearly reproducing. But what about the deep ones?
 
 This is largely unknown. Deep-water environments in Lake Constance are cold (~4–6 °C year-round), dark, and food-poor. Whether populations living at 60, 100, or 250 m depth reproduce at all — and if so, how much and when — has never been measured in a European lake. Yet these deep populations can reach high densities and may contribute substantially to the larval pool that drives continued spread.
 
@@ -28,4 +28,4 @@ This matters for two reasons. First, quantitative fecundity data for Quagga muss
 
 Monthly sampling across five depth strata (1, 15, 60, 100, and 250 m) over a full annual cycle in Lake Constance, covering both reproductive output (gonad staging, egg production) and physiological condition. The dataset will yield the first complete reproductive cycle characterised across a full depth gradient for this species in Europe.
 
-A manuscript is in preparation.
+Fieldwork planned: September 2026.
