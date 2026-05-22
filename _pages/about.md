@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student · <a href='https://www.eawag.ch/de/ueber-uns/portraet/organisation/mitarbeitende/profile/julie-conrads/show/' target='_blank'>Aquatic Ecology, Eawag (ETH)</a>
 
 profile:
   align: right
@@ -11,7 +11,8 @@ profile:
   more_info: >
     <p>BU G12</p>
     <p>Überlandstrasse 133</p>
-    <p>8600 Dübendorf</p>
+    <p>8600 Dübendorf, Switzerland</p>
+    <p>julie.conrads@eawag.ch</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in Aquatic Ecology at [Eawag](https://www.eawag.ch/) (Swiss Federal Institute of Aquatic Science and Technology), affiliated with ETH Zurich and supervised by [Dr. Alexandra Anh-Thu Weber](https://www.eawag.ch/de/ueber-uns/portraet/organisation/mitarbeitende/profile/alexandra-weber/show/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on the **early-stage invasion dynamics of Quagga mussels** (*Dreissena rostriformis bugensis*) in Lake Zurich, their genomic dispersal pathways both globally and within Switzerland, and the fecundity and fixation timing of the deep-water morph in Lake Constance. I use a combination of field surveys, field experiments, and genomic approaches to understand how this invasive species establishes and spreads in Swiss lakes.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I completed my Master's thesis at Eawag on the conservation genomics of the freshwater mussel *Anodonta anatina* in Switzerland, for which I received the **Hydrology-Limnology Prize for Best Master Thesis 2024** from the Hydrobiologie-Limnologie-Stiftung für Gewässerforschung.
+
+I hold a BSc from the University of Zurich with a major in Geography and a minor in Biology, and an MSc from the University of Zurich / ETH Zurich. I am also an SSI Divemaster with over 300 dives, which supports my fieldwork in Swiss lakes.
