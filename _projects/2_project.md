@@ -4,7 +4,7 @@ title: Invasion Genomics — Quagga Mussel
 description: Tracing the global and regional spread of the Quagga mussel using whole-genome sequencing of 640+ individuals across Europe and North America.
 img: assets/img/gallery/quagga_constance_15m_2.jpg
 importance: 2
-category: work
+category: PhD Projects
 related_publications: false
 ---
 

@@ -4,7 +4,7 @@ title: Reproductive Biology — Quagga Mussel
 description: Investigating reproductive success of Quagga mussels in Lake Constance across depths and seasons to understand their ecological advantage over the Zebra mussel.
 img: assets/img/blog/quagga.jpg
 importance: 3
-category: work
+category: PhD Projects
 related_publications: false
 ---
 
