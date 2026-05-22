@@ -5,22 +5,6 @@ date: 2026-05-22 09:00:00
 description: The Quagga mussel made headlines in 2024. But the story of non-native species in Lake Zurich started over a century ago.
 tags: invasion-biology lake-zurich freshwater-ecology
 categories: research
-thumbnail: assets/img/project1/PXL_20250403_111905195.MP.jpg
----
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project1/PXL_20250403_111905195.MP.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-<div class="caption">
-    Fieldwork on Lake Zurich. © Julie Conrads
-</div>
-
-When the Quagga mussel was found in Lake Zurich in 2024, it made the news — an immediate boat-cleaning ordinance, NZZ coverage, an SRF segment. But the Quagga mussel did not arrive into an untouched ecosystem. It moved into a lake that has been accumulating non-native species for more than a century, quietly, species by species, largely unnoticed.
-
-This is that story.
-
 ---
 
 ## A lake under pressure
@@ -33,9 +17,7 @@ The timeline of arrivals spans more than 100 years.
 
 ## The arrivals
 
-**~1920 — River snail.** The first non-native species recorded in the Lower Lake. An early introduction, likely via river networks or fish stocking. Today largely overlooked — but a sign of what was to come.
-
-**~1978 — New Zealand mudsnail (*Potamopyrgus antipodarum*)**
+**~1978 — New Zealand mudsnail (_Potamopyrgus antipodarum_)**
 
 <div class="row mt-3 justify-content-center">
     <div class="col-sm-5 mt-3 mt-md-0">
@@ -48,7 +30,7 @@ The timeline of arrivals spans more than 100 years.
 
 Tiny — just a few millimetres — and capable of reproducing without males. This snail spread rapidly through European waterways via boat traffic and waterbird movements. In Lake Zurich's Lower Lake, it once reached nearly **29,000 individuals per square metre**. Recent surveys found only ~676 ind. m⁻² — a ~43-fold decline, likely driven by competition with later arrivals.
 
-**~1978 — Zebra mussel (*Dreissena polymorpha*)**
+**~1978 — Zebra mussel (_Dreissena polymorpha_)**
 
 <div class="row mt-3 justify-content-center">
     <div class="col-sm-5 mt-3 mt-md-0">
@@ -63,7 +45,7 @@ Native to the Ponto-Caspian region, introduced to Western Europe via ballast wat
 
 **~1985 — Signal crayfish & Rainbow trout.** Both from North America, introduced deliberately for aquaculture and sport fishing. Crayfish introductions are particularly damaging — they disturb sediment, predate invertebrates, and outcompete native crayfish, which are now largely absent.
 
-**~2000 — Killer shrimp (*Dikerogammarus villosus*)**
+**~2000 — Killer shrimp (_Dikerogammarus villosus_)**
 
 <div class="row mt-3 justify-content-center">
     <div class="col-sm-5 mt-3 mt-md-0">
@@ -91,7 +73,7 @@ Also from the Ponto-Caspian region. One of the most aggressive freshwater amphip
     Quagga mussels (<em>Dreissena rostriformis bugensis</em>). © Julie Conrads
 </div>
 
-In September 2024, during my own benthic field surveys, I found the **Quagga mussel** (*Dreissena rostriformis bugensis*) in Lake Zurich — the first confirmed record. Like the Zebra mussel, it originates from the Ponto-Caspian region and arrived in Western Europe via ballast water. It first appeared in Switzerland in Lake Constance in 2014.
+In September 2024, during my own benthic field surveys, I found the **Quagga mussel** (_Dreissena rostriformis bugensis_) in Lake Zurich — the first confirmed record. Like the Zebra mussel, it originates from the Ponto-Caspian region and arrived in Western Europe via ballast water. It first appeared in Switzerland in Lake Constance in 2014.
 
 The Quagga mussel is considered even more ecologically impactful than the Zebra mussel: it tolerates deeper water, softer sediments, and can reach extraordinary densities. In Lake Constance, established populations already reach ~8,000 ind. m⁻². In Lake Zurich today, densities are still low — between 28 and 74 ind. m⁻². The invasion is in its early stages. But history suggests what comes next.
 
@@ -114,4 +96,4 @@ The Quagga mussel is not the end of this story. It is the latest chapter.
 
 ---
 
-*The invasion chronology is based on first records in the Lower Lake compiled from AWEL (Amt für Abfall, Wasser, Energie und Luft, Kanton Zürich), Burla, H. & Ribi, G. (1998). Population density of the snail* Potamopyrgus antipodarum *in Lake Zurich.* Aquatic Sciences *60(1), 33–39, and InfoFauna – Centre Suisse de Cartographie de la Faune (infofauna.ch).*
+_The invasion chronology is based on first records in the Lower Lake compiled from AWEL (Amt für Abfall, Wasser, Energie und Luft, Kanton Zürich), Burla, H. & Ribi, G. (1998). Population density of the snail_ Potamopyrgus antipodarum _in Lake Zurich._ Aquatic Sciences _60(1), 33–39, and InfoFauna – Centre Suisse de Cartographie de la Faune (infofauna.ch)._
