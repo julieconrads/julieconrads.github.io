@@ -109,6 +109,11 @@ ninja.data = [{
           description: "Investigating reproductive success of Quagga mussels in Lake Constance across depths and seasons to understand their ecological advantage over the Zebra mussel.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-morphometrics-quagga-mussel",
+          title: 'Morphometrics — Quagga Mussel',
+          description: "Investigating shell shape variation across a full depth gradient in Lake Constance — and whether two visually distinct morphs are the product of genes or environment.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
