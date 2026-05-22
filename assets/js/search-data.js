@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-lake-zurich-39-s-long-history-of-invasion",
+        
+          title: "Lake Zurich&#39;s Long History of Invasion",
+        
+        description: "The Quagga mussel made headlines in 2024. But the story of non-native species in Lake Zurich started over a century ago.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/lake-zurich-invasion-history/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
