@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -116,51 +116,21 @@ ninja.data = [{
           section: "News",},{id: "news-presented-my-research-on-the-quagga-mussel-invasion-at-the-mofa-tagung-2025-monitoring-von-fließgewässern-und-auenlandschaften-in-linz-austria-where-i-was-awarded-a-fellowship-for-the-project-invasion-genetics-of-the-quagga-mussel-global-and-regional-dispersal-dynamics-using-whole-genome-sequencing",
           title: 'Presented my research on the Quagga mussel invasion at the MoFA-Tagung 2025 (Monitoring...',
           description: "",
-          section: "News",},{id: "projects-benthic-macroinvertebrates-of-lake-zurich",
-          title: 'Benthic Macroinvertebrates of Lake Zurich',
+          section: "News",},{id: "projects-benthic-ecology-lake-zurich",
+          title: 'Benthic Ecology — Lake Zurich',
           description: "Contrasting benthic communities between the Upper and Lower basins of Lake Zurich",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-invasion-genomics-quagga-mussel",
+          title: 'Invasion Genomics — Quagga Mussel',
+          description: "Tracing the global and regional spread of the Quagga mussel using whole-genome sequencing of 640+ individuals across Europe and North America.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-reproductive-biology-quagga-mussel",
+          title: 'Reproductive Biology — Quagga Mussel',
+          description: "Investigating reproductive success of Quagga mussels in Lake Constance across depths and seasons to understand their ecological advantage over the Zebra mussel.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
