@@ -10,7 +10,7 @@ related_publications: false
 
 ## Overview
 
-Lake Zurich is one of Switzerland's most important water bodies — a drinking water reservoir for over 1.3 million people and an ecosystem increasingly under pressure from biological invasions. Despite its ecological and societal significance, no comprehensive baseline survey of its benthic macroinvertebrate community had ever been conducted. This project fills that gap, and asks a new question: do the Upper Lake (Obersee) and Lower Lake (Untersee) differ in how they have been invaded?
+Lake Zurich is a pre-alpine lake in northeastern Switzerland and a key drinking water reservoir for the city of Zurich. No comprehensive baseline survey of its benthic macroinvertebrate community had previously been conducted. This project fills that gap, and asks a new question: do the Upper Lake (Obersee) and Lower Lake (Untersee) differ in how they have been invaded?
 
 Benthic invertebrates are sentinels of shoreline change. They recycle nutrients, feed fish, and — unlike pelagic organisms — are tied to substrate, so they cannot simply leave degraded habitat. This makes them ideal indicators of ecological change. The **littoral zone**, where light, substrate, and organisms collide, is where the invasion signal is strongest.
 
