@@ -104,9 +104,9 @@ ninja.data = [{
           description: "Tracing the global and regional spread of the Quagga mussel using whole-genome sequencing of 640+ individuals across Europe and North America.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-reproductive-biology-quagga-mussel",
-          title: 'Reproductive Biology — Quagga Mussel',
-          description: "Investigating reproductive success of Quagga mussels in Lake Constance across depths and seasons to understand their ecological advantage over the Zebra mussel.",
+            },},{id: "projects-physiology-amp-reproduction-quagga-mussel",
+          title: 'Physiology &amp;amp; Reproduction — Quagga Mussel',
+          description: "Characterising the full annual reproductive cycle of Quagga mussels across a depth gradient (1–250 m) in Lake Constance — and asking what deep populations are actually doing down there.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-morphometrics-quagga-mussel",
