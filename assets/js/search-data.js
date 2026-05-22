@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
@@ -460,9 +453,9 @@ ninja.data = [{
           section: "News",},{id: "news-presented-my-research-on-the-quagga-mussel-invasion-at-the-mofa-tagung-2025-monitoring-von-fließgewässern-und-auenlandschaften-in-linz-austria-where-i-was-awarded-a-fellowship-for-the-project-invasion-genetics-of-the-quagga-mussel-global-and-regional-dispersal-dynamics-using-whole-genome-sequencing",
           title: 'Presented my research on the Quagga mussel invasion at the MoFA-Tagung 2025 (Monitoring...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-benthic-macroinvertebrates-of-lake-zurich",
+          title: 'Benthic Macroinvertebrates of Lake Zurich',
+          description: "First comprehensive baseline survey of the benthic invertebrate community in Lake Zurich and Obersee",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
