@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Benthic Macroinvertebrates of Lake Zurich
+title: Benthic Ecology — Lake Zurich
 description: Contrasting benthic communities between the Upper and Lower basins of Lake Zurich
 img: assets/img/project1/PXL_20250430_131307756.MP.jpg
 importance: 1
@@ -50,16 +50,16 @@ The dataset comprises **92,085 individuals** across **65 taxa** and **8 classes*
 **Invasive species dominate shallow water in both basins.** Non-native taxa account for the majority of individuals at 1 m and 5 m depth:
 
 | Depth | Lower Lake (invasive %) | Upper Lake (invasive %) |
-|-------|------------------------|------------------------|
-| 1 m   | 85%                    | 59%                    |
-| 5 m   | 68%                    | 69%                    |
-| 15 m  | 24%                    | 8%                     |
+| ----- | ----------------------- | ----------------------- |
+| 1 m   | 85%                     | 59%                     |
+| 5 m   | 68%                     | 69%                     |
+| 15 m  | 24%                     | 8%                      |
 
 **The two basins differ functionally.** Upper Lake communities occupy broader functional trait space across all categories (FDis, FEve, FRic), suggesting higher functional diversity despite similar invasion levels at shallow depths. The Lower Lake is characterised by sessile active filter feeders on fine and hard substrates, while the Upper Lake supports more mobile gatherers and soft-substrate taxa.
 
-**The Quagga mussel invasion is still in its early stages in Lake Zurich.** The Zebra mussel (*Dreissena polymorpha*) currently dominates at most sites — but the Quagga mussel (*D. bugensis*), first detected here in 2024, is already present across the Lower Lake. In Lake Constance, where the Quagga mussel is established, densities reach ~8,000 ind. m⁻² — a stark contrast to the current situation in Lake Zurich (~28–74 ind. m⁻²), and a possible preview of what is to come.
+**The Quagga mussel invasion is still in its early stages in Lake Zurich.** The Zebra mussel (_Dreissena polymorpha_) currently dominates at most sites — but the Quagga mussel (_D. bugensis_), first detected here in 2024, is already present across the Lower Lake. In Lake Constance, where the Quagga mussel is established, densities reach ~8,000 ind. m⁻² — a stark contrast to the current situation in Lake Zurich (~28–74 ind. m⁻²), and a possible preview of what is to come.
 
-**Compared to historical data, Zebra mussel densities have increased ~88× in the Lower Lake** (from 113 ind. m⁻² in 1978–1988 to 9,958 ind. m⁻² in 2024/25), while *Potamopyrgus antipodarum* (New Zealand mudsnail) has declined ~43× (from 28,905 to 676 ind. m⁻²).
+**Compared to historical data, Zebra mussel densities have increased ~88× in the Lower Lake** (from 113 ind. m⁻² in 1978–1988 to 9,958 ind. m⁻² in 2024/25), while _Potamopyrgus antipodarum_ (New Zealand mudsnail) has declined ~43× (from 28,905 to 676 ind. m⁻²).
 
 ---
 
