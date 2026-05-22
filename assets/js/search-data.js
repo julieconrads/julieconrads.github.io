@@ -62,6 +62,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/lake-zurich-invasion-history/";
           
         },
+      },{id: "post-how-the-quagga-mussel-was-found-in-lake-zurich",
+        
+          title: "How the Quagga Mussel Was Found in Lake Zurich",
+        
+        description: "In September 2024, a routine sampling trip to Mythenquai ended with the first confirmed record of Quagga mussels in Lake Zurich. Here is that story.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/quagga-mussel-discovery-lake-zurich/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
