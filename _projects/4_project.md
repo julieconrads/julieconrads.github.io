@@ -33,3 +33,7 @@ To test whether shell shape changes gradually with depth or shows a discrete tra
 If the transition is gradual, it suggests a continuous environmental gradient drives shell shape. If it is abrupt, it points to a threshold — perhaps a light or temperature boundary — below which shell development switches modes.
 
 Fieldwork: May 2026.
+
+---
+
+*This project is part of a broader research initiative on Quagga mussel morphology led by [Joana L. Santos](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/joana-l-santos/show/) (Eawag).*
