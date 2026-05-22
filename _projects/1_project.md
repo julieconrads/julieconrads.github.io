@@ -1,81 +1,80 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Benthic Macroinvertebrates of Lake Zurich
+description: First comprehensive baseline survey of the benthic invertebrate community in Lake Zurich and Obersee
+img: assets/img/project1/PXL_20250930_083951018.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Overview
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Lake Zurich is one of Switzerland's most important water bodies — a drinking water reservoir for over 1.3 million people and an ecosystem increasingly under pressure from biological invasions. Despite its ecological and societal significance, no comprehensive baseline survey of its benthic macroinvertebrate community had ever been conducted. This project fills that gap.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Between 2024 and 2025, I conducted the first systematic, multi-site, multi-depth survey of benthic macroinvertebrates in Lake Zurich and Obersee, covering **seven sites** across a **depth gradient of 1 m, 5 m, and 15 m**. Over **130,000 individuals** were counted and identified to the lowest possible taxonomic level. The dataset constitutes a critical ecological baseline for tracking the footprint of the ongoing Quagga mussel (*Dreissena rostriformis bugensis*) invasion — a species I discovered in Lake Zurich for the first time in 2024 during these very surveys.
+
+---
+
+## Key Findings
+
+- Invasive species already **dominate the shallow littoral zone**, accounting for **88% of all individuals** in Lake Zurich at 1 m and 5 m depth.
+- The **Quagga mussel** (*Dreissena rostriformis bugensis*) was recorded in Lake Zurich for the **first time**, establishing its presence in a major Swiss drinking water lake.
+- Native macroinvertebrate communities remain relatively intact at 15 m depth, but shallow communities show clear signs of invasion pressure.
+- The dataset provides the first quantitative reference point for long-term monitoring of how the Quagga mussel invasion reshapes the benthic ecosystem.
+
+A manuscript is currently in preparation.
+
+---
+
+## Methods
+
+Sampling was carried out using standardised quantitative methods across all sites and depths. Samples were preserved in ethanol in the field, then sorted and identified under stereo- and compound microscopes in the laboratory. All individuals were identified and enumerated, with additional length measurements taken for biomass estimation.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project1/PXL_20250930_083951018.jpg" title="Field sampling Lake Zurich" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project1/PXL_20250612_122829804.jpg" title="Benthic sampling" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project1/PXL_20250519_092735796.jpg" title="Sample processing" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Field and lab work for the benthic survey. © Julie Conrads
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project1/PXL_20250901_145453320.MP.jpg" title="Sampling campaign" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project1/PXL_20250811_100042006.MP.jpg" title="Lake Zurich fieldwork" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project1/PXL_20250513_110554490.jpg" title="Invertebrate sorting" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Fieldwork on Lake Zurich across sampling campaigns in 2025. © Julie Conrads
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+---
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Photo Gallery
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="gallery-grid">
+  {% assign proj1_images = "PXL_20251002_081954110.MP.jpg,PXL_20250930_083951018.jpg,PXL_20250907_132151098.MP.jpg,PXL_20250901_145453320.MP.jpg,PXL_20250811_100042006.MP.jpg,PXL_20250808_083403681.MP.jpg,PXL_20250612_122829804.jpg,PXL_20250522_122241168.MP.jpg,PXL_20250519_092735796.jpg,PXL_20250519_084259510.MP.jpg,PXL_20250513_110554490.jpg,PXL_20250508_092444771.jpg,PXL_20250502_095534927.jpg,PXL_20250430_131307756.MP.jpg,PXL_20250429_101718958.MP.jpg,PXL_20250415_100101058.MP.jpg,PXL_20250409_152545461.MP.jpg,PXL_20250408_073518398.MP.jpg,PXL_20250403_111905195.MP.jpg,PXL_20250320_173651219.MP.jpg" | split: "," %}
+  {% for img in proj1_images %}
+  <div class="gallery-item">
+    <a href="{{ 'assets/img/project1/' | append: img | relative_url }}" target="_blank">
+      <img src="{{ 'assets/img/project1/' | append: img | relative_url }}" alt="Benthic survey fieldwork, Lake Zurich" loading="lazy" />
+    </a>
   </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+  {% endfor %}
 </div>
-```
-
-{% endraw %}
+<div class="caption" style="margin-top: 0.5rem;">
+    Fieldwork images from the benthic macroinvertebrate survey of Lake Zurich and Obersee. © Julie Conrads
+</div>
