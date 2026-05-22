@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>BU G12</p>
     <p>Überlandstrasse 133</p>
     <p>8600 Dübendorf, Switzerland</p>
     <p>julie.conrads@eawag.ch</p>
@@ -30,7 +29,7 @@ latest_posts:
 
 I am a PhD student in [Aquatic Ecology](https://www.eawag.ch/en/department/eco/) at [Eawag](https://www.eawag.ch/en/) (Swiss Federal Institute of Aquatic Science and Technology), affiliated with ETH Zurich and supervised by [Dr. Alexandra Anh-Thu Weber](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/alexandra-anhthu-weber/show/) ([Weber Lab](https://www.weberlab.ch/)).
 
-My PhD research focuses on the Quagga mussel (*Dreissena rostriformis bugensis*), an invasive bivalve that has been rapidly spreading across Swiss lakes since its first detection in Lake Constance in 2014, and was found in Lake Zurich for the first time in 2024 — a discovery I made during my own benthic field surveys.
+My PhD research focuses on the Quagga mussel (_Dreissena rostriformis bugensis_), an invasive bivalve that has been rapidly spreading across Swiss lakes since its first detection in Lake Constance in 2014, and was found in Lake Zurich for the first time in 2024 — a discovery I made during my own benthic field surveys.
 
 My work spans three interconnected research themes:
 
@@ -38,8 +37,8 @@ My work spans three interconnected research themes:
 
 **Invasion genomics.** Using whole-genome sequencing of over 640 individuals sampled across Europe (Switzerland, Germany, UK, France, the Netherlands, Belgium, Denmark, Italy, Austria, Ukraine) and North America (Great Lakes, western US), I am tracing the global and regional dispersal routes of the Quagga mussel. Preliminary results reveal distinct genetic clusters and multiple independent introduction events into Switzerland — raising important questions about connectivity between water bodies and the role of shipping corridors and water management infrastructure in facilitating spread.
 
-**Reproductive biology.** A further chapter investigates the reproductive success of Quagga mussels in Lake Constance, examining variation across depths and seasons — an important dimension of understanding why this species is so ecologically successful compared to the closely related Zebra mussel (*Dreissena polymorpha*).
+**Reproductive biology.** A further chapter investigates the reproductive success of Quagga mussels in Lake Constance, examining variation across depths and seasons — an important dimension of understanding why this species is so ecologically successful compared to the closely related Zebra mussel (_Dreissena polymorpha_).
 
-Previously, I completed my Master's thesis at Eawag on the conservation genomics of the freshwater mussel *Anodonta anatina* in Switzerland, for which I received the **Hydrology-Limnology Prize for Best Master Thesis 2024** from the Hydrobiologie-Limnologie-Stiftung für Gewässerforschung.
+Previously, I completed my Master's thesis at Eawag on the conservation genomics of the freshwater mussel _Anodonta anatina_ in Switzerland, for which I received the **Hydrology-Limnology Prize for Best Master Thesis 2024** from the Hydrobiologie-Limnologie-Stiftung für Gewässerforschung.
 
 I hold a BSc from the University of Zurich with a major in Geography and a minor in Biology, and an MSc from the University of Zurich / ETH Zurich. I am a member of the [Eawag Scientific Dive Unit](https://www.eawag.ch/en/about-us/working/researchenvironment/eawag-scientific-dive-unit/), which supports my fieldwork in Swiss lakes.
