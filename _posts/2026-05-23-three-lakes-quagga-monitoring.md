@@ -19,7 +19,6 @@ The Neuenburgersee (Lac de Neuchâtel), Bielersee (Lac de Bienne), and Murtensee
     The Three Lakes region (Drei-Seen-Land): Neuenburgersee, Bielersee, and Murtensee, connected by the Zihl and Broye canals. Map: <a href="https://www.boote-magazin.de" target="_blank">Boote-Magazin.de</a>
 </div>
 
-**In May 2026, a monitoring campaign led by [Thomas Müller](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/thomas-mueller/show/) (Eawag) sampled all three lakes to document the current state of the Quagga mussel (*Dreissena rostriformis bugensis*) invasion.**
 
 ---
 
@@ -53,9 +52,15 @@ Sampling was carried out from research vessels across all three lakes, using Ekm
     <div class="col-3 mt-2">
         {% include figure.liquid path="assets/img/blog/fieldwork_team_neuchatel.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+    <div class="col-3 mt-2">
+        {% include figure.liquid path="assets/img/blog/eawag_boat_3seen.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-3 mt-2">
+        {% include figure.liquid path="assets/img/blog/sampling_team_3seen.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
 </div>
 <div class="caption">
-    Fieldwork on Neuenburgersee and Bielersee, May 2026. Photos 1 and 6: © Canton de Neuchâtel. Photos 2–5: © Julie Conrads.
+    Fieldwork on Neuenburgersee and Bielersee, May 2026. Photos 7–8: © Canton de Neuchâtel. Photos 1–6: © Julie Conrads.
 </div>
 
 ---
