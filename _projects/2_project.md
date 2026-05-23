@@ -30,12 +30,18 @@ This is one of the largest genomic datasets assembled for this species to date.
 - What are the source populations for Western European invasions?
 - Did Switzerland receive the Quagga mussel from a single introduction event, or multiple?
 - How connected are Swiss lakes to each other and to broader European invasion corridors?
-- What role do shipping routes and water management infrastructure play in facilitating spread?
+- What role do shipping routes and interlake connectivity play in facilitating spread?
 
 ---
 
 ## Preliminary Findings
 
-Preliminary results reveal **distinct genetic clusters** across the sampled range and evidence for **multiple independent introduction events** into Switzerland. This raises important questions about the role of shipping corridors, interlake connectivity, and water management infrastructure (canals, pumping stations) in facilitating the mussel's rapid westward spread.
+Preliminary results reveal **distinct genetic clusters** across the sampled range and evidence for **multiple independent introduction events** into Switzerland. This raises important questions about the role of shipping corridors and interlake connectivity in facilitating the mussel's rapid westward spread.
 
 A manuscript is in preparation.
+
+---
+
+## Further Reading
+
+Marescaux, J., Von Oheimb, K.C.M., Geismar, J., Hyde, C., Dijkstra, K.-D.B., Wolff, C., Van Doninck, K. & Vanheusden, B. (2016). Unravelling the invasion pathways of the quagga mussel (*Dreissena rostriformis*) into Western Europe. *Biological Invasions*, 18, 245–264. [https://doi.org/10.1007/s10530-015-1005-1](https://doi.org/10.1007/s10530-015-1005-1)

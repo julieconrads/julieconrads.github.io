@@ -44,4 +44,4 @@ Boat cleaning is now central to the management response. The [SMRP (Schiffsmotor
 
 The Quagga mussel was first detected in Switzerland in Lake Constance in 2016. By 2024 it had reached Lake Zurich. In Lake Constance, established populations now reach densities of around 8,000 individuals per square metre. In Lake Zurich at the time of discovery, densities were between 28 and 74 individuals per square metre.
 
-The invasion is in its early stages. The ecological trajectory of this species in Lake Zurich — and what it means for the benthic community already dominated by invasive species — is exactly what my PhD research is designed to track.
+The invasion is in its early stages. The ecological trajectory of this species in Lake Zurich — and what it means for the benthic community already dominated by invasive species — is exactly what my PhD research is designed to track. How the Quagga mussel is spreading and adapting genetically across Swiss lakes is the focus of my [second PhD project](/projects/2_project/) on invasion genomics.
