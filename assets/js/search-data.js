@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "post-lake-zurich-39-s-long-history-of-invasion",
+        },{id: "post-how-the-quagga-mussel-was-found-in-lake-zurich",
+        
+          title: "How the Quagga Mussel Was Found in Lake Zurich",
+        
+        description: "In September 2024, a routine sampling trip to Mythenquai ended with the first confirmed record of Quagga mussels in Lake Zurich. Here is that story.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/quagga-mussel-discovery-lake-zurich/";
+          
+        },
+      },{id: "post-lake-zurich-39-s-long-history-of-invasion",
         
           title: "Lake Zurich&#39;s Long History of Invasion",
         
@@ -105,24 +116,27 @@ ninja.data = [{
           section: "News",},{id: "news-presented-my-research-on-the-quagga-mussel-invasion-at-the-mofa-tagung-2025-monitoring-von-fließgewässern-und-auenlandschaften-in-linz-austria-where-i-was-awarded-a-fellowship-for-the-project-invasion-genetics-of-the-quagga-mussel-global-and-regional-dispersal-dynamics-using-whole-genome-sequencing",
           title: 'Presented my research on the Quagga mussel invasion at the MoFA-Tagung 2025 (Monitoring...',
           description: "",
-          section: "News",},{id: "projects-benthic-ecology-lake-zurich",
-          title: 'Benthic Ecology — Lake Zurich',
-          description: "Contrasting benthic communities between the Upper and Lower basins of Lake Zurich",
+          section: "News",},{id: "news-presented-ongoing-work-on-invasion-genomics-of-the-quagga-mussel-in-switzerland-at-the-peak-kurs-eawag-quaggamuschel-in-der-schweiz-aktueller-wissensstand-und-weiterentwicklung-von-präventions-und-monitoringmassnahmen-dübendorf-25-february-2026",
+          title: 'Presented ongoing work on invasion genomics of the Quagga mussel in Switzerland at...',
+          description: "",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-invasion-genomics-quagga-mussel",
-          title: 'Invasion Genomics — Quagga Mussel',
-          description: "Tracing the global and regional spread of the Quagga mussel using whole-genome sequencing of 640+ individuals across Europe and North America.",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-physiology-amp-reproduction-quagga-mussel",
-          title: 'Physiology &amp;amp; Reproduction — Quagga Mussel',
-          description: "Characterising the full annual reproductive cycle of Quagga mussels across a depth gradient (1–250 m) in Lake Constance — and asking what deep populations are actually doing down there.",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-morphometrics-quagga-mussel",
-          title: 'Morphometrics — Quagga Mussel',
-          description: "Investigating shell shape variation across a full depth gradient in Lake Constance — and whether two visually distinct morphs are the product of genes or environment.",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "teachings-data-science-fundamentals",
