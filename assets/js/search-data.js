@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "post-lake-zurich-39-s-long-history-of-invasion",
+        },{id: "post-monitoring-the-quagga-mussel-in-the-three-lakes-region",
+        
+          title: "Monitoring the Quagga Mussel in the Three Lakes Region",
+        
+        description: "In May 2026, a sampling campaign across Neuenburgersee, Bielersee, and Murtensee documented the spread and population dynamics of the Quagga mussel in western Switzerland.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/three-lakes-quagga-monitoring/";
+          
+        },
+      },{id: "post-lake-zurich-39-s-long-history-of-invasion",
         
           title: "Lake Zurich&#39;s Long History of Invasion",
         
