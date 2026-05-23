@@ -77,23 +77,15 @@ A manuscript is currently in preparation.
 
 ## Photo Gallery
 
-<div id="proj1-carousel" class="carousel slide" data-bs-ride="false" style="height:420px;overflow:hidden;border-radius:0.5rem;">
-  <div class="carousel-inner">
-    {% assign proj1_images = "PXL_20251002_081954110.MP.jpg,PXL_20250930_083951018.jpg,PXL_20250907_132151098.MP.jpg,PXL_20250901_145453320.MP.jpg,PXL_20250811_100042006.MP.jpg,PXL_20250808_083403681.MP.jpg,PXL_20250612_122829804.jpg,PXL_20250522_122241168.MP.jpg,PXL_20250519_092735796.jpg,PXL_20250519_084259510.MP.jpg,PXL_20250513_110554490.jpg,PXL_20250508_092444771.jpg,PXL_20250502_095534927.jpg,PXL_20250430_131307756.MP.jpg,PXL_20250429_101718958.MP.jpg,PXL_20250415_100101058.MP.jpg,PXL_20250409_152545461.MP.jpg,PXL_20250408_073518398.MP.jpg,PXL_20250403_111905195.MP.jpg,PXL_20250320_173651219.MP.jpg" | split: "," %}
-    {% for img in proj1_images %}
-    <div class="carousel-item{% if forloop.first %} active{% endif %}">
-      <img src="{{ 'assets/img/project1/' | append: img | relative_url }}" class="d-block w-100 rounded" style="max-height:420px;object-fit:cover;" alt="Benthic survey fieldwork, Lake Zurich" loading="lazy">
-    </div>
-    {% endfor %}
+<div class="gallery-grid">
+  {% assign proj1_images = "PXL_20251002_081954110.MP.jpg,PXL_20250930_083951018.jpg,PXL_20250907_132151098.MP.jpg,PXL_20250901_145453320.MP.jpg,PXL_20250811_100042006.MP.jpg,PXL_20250808_083403681.MP.jpg,PXL_20250612_122829804.jpg,PXL_20250522_122241168.MP.jpg,PXL_20250519_092735796.jpg,PXL_20250519_084259510.MP.jpg,PXL_20250513_110554490.jpg,PXL_20250508_092444771.jpg,PXL_20250502_095534927.jpg,PXL_20250430_131307756.MP.jpg,PXL_20250429_101718958.MP.jpg,PXL_20250415_100101058.MP.jpg,PXL_20250409_152545461.MP.jpg,PXL_20250408_073518398.MP.jpg,PXL_20250403_111905195.MP.jpg,PXL_20250320_173651219.MP.jpg" | split: "," %}
+  {% for img in proj1_images %}
+  <div class="gallery-item">
+    <a href="{{ 'assets/img/project1/' | append: img | relative_url }}" target="_blank">
+      <img src="{{ 'assets/img/project1/' | append: img | relative_url }}" alt="Benthic survey fieldwork, Lake Zurich" loading="lazy" />
+    </a>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#proj1-carousel" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#proj1-carousel" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
+  {% endfor %}
 </div>
 <div class="caption" style="margin-top: 0.5rem;">
     Fieldwork images from the benthic macroinvertebrate survey of Lake Zurich and Obersee. © Julie Conrads

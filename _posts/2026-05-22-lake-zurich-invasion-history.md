@@ -65,15 +65,12 @@ Also from the Ponto-Caspian region. One of the most aggressive freshwater amphip
 ## The latest arrival: Quagga mussel
 
 <div class="row mt-3 justify-content-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/quagga.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project1/PXL_20250430_131307756.MP.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    Left: Quagga mussels (<em>Dreissena rostriformis bugensis</em>). Right: Sorting samples in the field. © Julie Conrads
+    Quagga mussels (<em>Dreissena rostriformis bugensis</em>). © Julie Conrads
 </div>
 
 In September 2024, during my own benthic field surveys, I found the **Quagga mussel** (_Dreissena rostriformis bugensis_) in Lake Zurich, the first confirmed record. Like the Zebra mussel, it originates from the Ponto-Caspian region and arrived in Western Europe via ballast water. It first appeared in Switzerland in Lake Constance in 2014.
@@ -101,83 +98,3 @@ The Quagga mussel is not the end of this story. It is the latest chapter.
 
 _The invasion chronology is based on first records in the Lower Lake compiled from AWEL (Amt für Abfall, Wasser, Energie und Luft, Kanton Zürich), Burla, H. & Ribi, G. (1998). Population density of the snail_ Potamopyrgus antipodarum _in Lake Zurich._ Aquatic Sciences _60(1), 33–39, and InfoFauna – Centre Suisse de Cartographie de la Faune (infofauna.ch)._
 
----
-
-## Fieldwork
-
-<div class="row mt-3 g-2">
-  <div class="col-4 col-md-2">
-    {% include figure.liquid path="assets/img/project1/PXL_20250430_131307756.MP.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-  <div class="col-4 col-md-2">
-    {% include figure.liquid path="assets/img/project1/PXL_20250519_092735796.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-  <div class="col-4 col-md-2">
-    {% include figure.liquid path="assets/img/project1/PXL_20250612_122829804.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-  <div class="col-4 col-md-2">
-    {% include figure.liquid path="assets/img/project1/PXL_20250808_083403681.MP.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-  <div class="col-4 col-md-2">
-    {% include figure.liquid path="assets/img/project1/PXL_20250901_145453320.MP.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-  <div class="col-4 col-md-2">
-    {% include figure.liquid path="assets/img/project1/PXL_20251002_081954110.MP.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-</div>
-
-<div id="fieldwork-carousel" class="carousel slide mt-3" data-bs-ride="false">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="{{ '/assets/img/project1/PXL_20250320_173651219.MP.jpg' | relative_url }}" class="d-block w-100 rounded" style="max-height:340px;object-fit:cover;" alt="Fieldwork">
-    </div>
-    <div class="carousel-item">
-      <img src="{{ '/assets/img/project1/PXL_20250403_111905195.MP.jpg' | relative_url }}" class="d-block w-100 rounded" style="max-height:340px;object-fit:cover;" alt="Fieldwork">
-    </div>
-    <div class="carousel-item">
-      <img src="{{ '/assets/img/project1/PXL_20250408_073518398.MP.jpg' | relative_url }}" class="d-block w-100 rounded" style="max-height:340px;object-fit:cover;" alt="Fieldwork">
-    </div>
-    <div class="carousel-item">
-      <img src="{{ '/assets/img/project1/PXL_20250409_152545461.MP.jpg' | relative_url }}" class="d-block w-100 rounded" style="max-height:340px;object-fit:cover;" alt="Fieldwork">
-    </div>
-    <div class="carousel-item">
-      <img src="{{ '/assets/img/project1/PXL_20250415_100101058.MP.jpg' | relative_url }}" class="d-block w-100 rounded" style="max-height:340px;object-fit:cover;" alt="Fieldwork">
-    </div>
-    <div class="carousel-item">
-      <img src="{{ '/assets/img/project1/PXL_20250429_101718958.MP.jpg' | relative_url }}" class="d-block w-100 rounded" style="max-height:340px;object-fit:cover;" alt="Fieldwork">
-    </div>
-    <div class="carousel-item">
-      <img src="{{ '/assets/img/project1/PXL_20250502_095534927.jpg' | relative_url }}" class="d-block w-100 rounded" style="max-height:340px;object-fit:cover;" alt="Fieldwork">
-    </div>
-    <div class="carousel-item">
-      <img src="{{ '/assets/img/project1/PXL_20250508_092444771.jpg' | relative_url }}" class="d-block w-100 rounded" style="max-height:340px;object-fit:cover;" alt="Fieldwork">
-    </div>
-    <div class="carousel-item">
-      <img src="{{ '/assets/img/project1/PXL_20250513_110554490.jpg' | relative_url }}" class="d-block w-100 rounded" style="max-height:340px;object-fit:cover;" alt="Fieldwork">
-    </div>
-    <div class="carousel-item">
-      <img src="{{ '/assets/img/project1/PXL_20250519_084259510.MP.jpg' | relative_url }}" class="d-block w-100 rounded" style="max-height:340px;object-fit:cover;" alt="Fieldwork">
-    </div>
-    <div class="carousel-item">
-      <img src="{{ '/assets/img/project1/PXL_20250522_122241168.MP.jpg' | relative_url }}" class="d-block w-100 rounded" style="max-height:340px;object-fit:cover;" alt="Fieldwork">
-    </div>
-    <div class="carousel-item">
-      <img src="{{ '/assets/img/project1/PXL_20250811_100042006.MP.jpg' | relative_url }}" class="d-block w-100 rounded" style="max-height:340px;object-fit:cover;" alt="Fieldwork">
-    </div>
-    <div class="carousel-item">
-      <img src="{{ '/assets/img/project1/PXL_20250907_132151098.MP.jpg' | relative_url }}" class="d-block w-100 rounded" style="max-height:340px;object-fit:cover;" alt="Fieldwork">
-    </div>
-    <div class="carousel-item">
-      <img src="{{ '/assets/img/project1/PXL_20250930_083951018.jpg' | relative_url }}" class="d-block w-100 rounded" style="max-height:340px;object-fit:cover;" alt="Fieldwork">
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#fieldwork-carousel" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#fieldwork-carousel" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
-<div class="caption">Fieldwork from the benthic macroinvertebrate survey of Lake Zurich and Obersee. © Julie Conrads</div>
