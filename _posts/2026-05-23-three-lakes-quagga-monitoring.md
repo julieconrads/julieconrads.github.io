@@ -31,7 +31,7 @@ The Quagga mussel reached Switzerland via Lake Constance and has since spread we
 
 ## The sampling campaign
 
-Sampling was carried out from research vessels across all three lakes, using Ekman grabs, Ponar grabs, and a benthic imaging system to collect and document benthic material at multiple depths. More information on the monitoring approach can be found at the [Eawag Quagga Mussel Competence Center](https://www.eawag.ch/en/department/eco/projects/eawag-quagga-mussel-competence-center/).
+Sampling was carried out from research vessels across all three lakes, using Ponar grabs and a benthic imaging system to collect and document benthic material at multiple depths. More information on the monitoring approach can be found at the [Eawag Quagga Mussel Competence Center](https://www.eawag.ch/en/department/eco/projects/eawag-quagga-mussel-competence-center/).
 
 <div class="row mt-3 g-2">
     <div class="col-3 mt-2">
