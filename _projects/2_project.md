@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Invasion Genomics — Quagga Mussel
+title: Invasion Genomics: Quagga Mussel
 description: Tracing the global and regional spread of the Quagga mussel using whole-genome sequencing of 640+ individuals across Europe and North America.
 img: assets/img/gallery/quagga_constance_15m_2.jpg
 importance: 2
@@ -10,7 +10,7 @@ related_publications: false
 
 ## Overview
 
-Where did the Quagga mussel (_Dreissena rostriformis bugensis_) come from, and how did it reach Swiss lakes so quickly? This project uses whole-genome sequencing to trace the invasion history of this species across two continents — from its native Ponto-Caspian range to established populations in Western Europe and North America.
+Where did the Quagga mussel (_Dreissena rostriformis bugensis_) come from, and how did it reach Swiss lakes so quickly? This project uses whole-genome sequencing to trace the invasion history of this species across two continents, from its native Ponto-Caspian range to established populations in Western Europe and North America.
 
 ---
 
