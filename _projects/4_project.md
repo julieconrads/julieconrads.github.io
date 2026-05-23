@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Morphometrics: Quagga Mussel
+title: "Morphometrics: Quagga Mussel"
 description: Investigating shell shape variation across a full depth gradient in Lake Constance, asking whether two visually distinct morphs are the product of genes or environment.
 img: assets/img/gallery/quagga_constance_40m.jpg
 importance: 1

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Benthic Ecology: Lake Zurich
+title: "Benthic Ecology: Lake Zurich"
 description: Contrasting benthic communities between the Upper and Lower basins of Lake Zurich
 img: assets/img/project1/PXL_20250430_131307756.MP.jpg
 importance: 1
