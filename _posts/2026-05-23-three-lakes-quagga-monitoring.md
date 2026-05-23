@@ -5,7 +5,7 @@ date: 2026-05-23 09:00:00
 description: In May 2026, a sampling campaign across Neuenburgersee, Bielersee, and Murtensee documented the spread and population dynamics of the Quagga mussel in western Switzerland.
 tags: quagga-mussel monitoring fieldwork three-lakes
 categories: research
-thumbnail: assets/img/blog/PXL_20260508_122112430.MP.jpg
+thumbnail: assets/img/blog/PXL_20260508_100740298.MP.jpg
 ---
 
 The Neuenburgersee (Lac de Neuchâtel), Bielersee (Lac de Bienne), and Murtensee (Lac de Morat) form a connected lake system in western Switzerland, linked by the Hagneck and Broye canals. Together they cover over 270 km² of open water, making them one of the largest lake networks in the country — and, because of that connectivity, a system where an invasive species can spread rapidly from one basin to the next.
@@ -31,25 +31,25 @@ The Quagga mussel reached Switzerland via Lake Constance and has since spread we
 
 ## The sampling campaign
 
-Sampling was carried out from research vessels across all three lakes, using Ekman grabs, Ponar grabs, and a benthic imaging system to collect and document benthic material at multiple depths. More information on the monitoring approach can be found at the [Eawag Quagga Fachstelle](https://www.eawag.ch/de/abteilung/eco/projekte/eawag-quagga-fachstelle/).
+Sampling was carried out from research vessels across all three lakes, using Ekman grabs, Ponar grabs, and a benthic imaging system to collect and document benthic material at multiple depths. More information on the monitoring approach can be found at the [Eawag Quagga Mussel Competence Center](https://www.eawag.ch/en/department/eco/projects/eawag-quagga-mussel-competence-center/).
 
 <div class="row mt-3 g-2">
-    <div class="col-4 mt-2">
+    <div class="col-3 mt-2">
         {% include figure.liquid path="assets/img/blog/PXL_20260508_092347460.MP.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-4 mt-2">
+    <div class="col-3 mt-2">
         {% include figure.liquid path="assets/img/blog/PXL_20260504_140606927.MP.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-4 mt-2">
+    <div class="col-3 mt-2">
         {% include figure.liquid path="assets/img/blog/PXL_20260508_100740298.MP.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-4 mt-2">
+    <div class="col-3 mt-2">
         {% include figure.liquid path="assets/img/blog/PXL_20260505_082132494.MP.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-4 mt-2">
+    <div class="col-3 mt-2">
         {% include figure.liquid path="assets/img/blog/PXL_20260508_122112430.MP.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-4 mt-2">
+    <div class="col-3 mt-2">
         {% include figure.liquid path="assets/img/blog/fieldwork_team_neuchatel.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
