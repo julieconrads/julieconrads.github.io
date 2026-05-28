@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sampling Quagga Mussels Across the Depth Gradient in Lake Constance
-date: 2026-05-14 09:00:00
+date: 2026-05-28 09:00:00
 description: Fieldwork for the Morphometrics project — collecting Quagga mussels from 30 m to 200 m depth in Lake Constance using Ponar grabs to study shell shape variation across a depth gradient.
 tags: quagga-mussel fieldwork lake-constance morphometrics
 categories: research
