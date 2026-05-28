@@ -24,14 +24,14 @@ The Neuenburgersee (Lac de Neuchâtel), Bielersee (Lac de Bienne), and Murtensee
 
 ## Why monitor these lakes?
 
-The Quagga mussel reached Switzerland via Lake Constance and has since spread westward through major lake systems. Its arrival in the Three Lakes region represents a significant step in that dispersal. Unlike a single observation, repeated monitoring is what reveals population dynamics: how fast densities are growing, whether the mussel is expanding into new depths, and how the benthic community is responding.
+The Quagga mussel reached Switzerland via Lake Constance and has since spread westward through major lake systems. Its arrival in the Three Lakes region represents a significant step in that dispersal. Unlike a single observation, repeated monitoring is what reveals population dynamics: how fast densities are growing, whether the mussel is expanding into new depths.
 
 
 ---
 
 ## The sampling campaign
 
-Sampling was carried out from research vessels across all three lakes, using Ponar grabs and a benthic imaging system to collect and document benthic material at multiple depths. More information on the monitoring approach can be found at the [Eawag Quagga Mussel Competence Center](https://www.eawag.ch/en/department/eco/projects/eawag-quagga-mussel-competence-center/).
+Sampling was carried out on the Eawag boat "Calypso" across all three lakes, using Ponar grabs and a benthic imaging system to collect and document benthic material at multiple depths. More information on the monitoring approach can be found at the [Eawag Quagga Mussel Competence Center](https://www.eawag.ch/en/department/eco/projects/eawag-quagga-mussel-competence-center/).
 
 <div class="row mt-3 g-2">
     <div class="col-3 mt-2">
@@ -68,8 +68,6 @@ Sampling was carried out from research vessels across all three lakes, using Pon
 ## What the connected lake system means for spread
 
 The three lakes are not isolated. The Hagneck Canal connects the Aare to Bielersee, and the Broye Canal connects Bielersee to Murtensee, which in turn drains into the Broye river leading to Neuenburgersee. This hydrological connectivity means that once the Quagga mussel is established in one basin, larval dispersal and boat traffic provide multiple pathways into the next.
-
-Monitoring all three lakes simultaneously — rather than one at a time — allows us to compare population stages and test whether connectivity is driving synchronous or sequential expansion across the network.
 
 ---
 
