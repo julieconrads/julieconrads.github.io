@@ -1,0 +1,19 @@
+{% comment %}
+  Formats a date string as "Mon YYYY" when a month is present (e.g. "2026-07" -> "Jul 2026"),
+  falls back to the year alone (e.g. "2026"), and passes "present"/"Present" through unchanged.
+  Usage: {% capture x %}{% include cv/format_date.liquid date_str=some_date %}{% endcapture %}
+{% endcomment %}
+{% assign raw = include.date_str | default: '' %}
+{% assign raw_downcase = raw | downcase %}
+{% if raw_downcase == 'present' or raw_downcase == 'ongoing' %}
+  {{- 'Present' -}}
+{% else %}
+  {% assign parts = raw | split: '-' %}
+  {% if parts.size > 1 %}
+    {% assign months = 'Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec' | split: ',' %}
+    {% assign month_index = parts[1] | plus: 0 | minus: 1 %}
+    {{- months[month_index] }} {{ parts[0] -}}
+  {% else %}
+    {{- parts[0] -}}
+  {% endif %}
+{% endif %}

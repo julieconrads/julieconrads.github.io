@@ -21,7 +21,8 @@
       {% endif %}
 
       {% if entry.date %}
-        ({{ entry.date | split: '-' | slice: 0, 1 | join: '' }})
+        {% capture cert_date %}{% include cv/format_date.liquid date_str=entry.date %}{% endcapture %}
+        ({{ cert_date | strip }})
       {% endif %}
     </li>
   {% endfor %}

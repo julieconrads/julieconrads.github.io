@@ -17,7 +17,8 @@
                 <tr>
                   <td>
                     <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
-                      {{- pub_date | split: '-' | slice: 0, 1 | join: '' -}}
+                      {%- capture pub_date_formatted %}{% include cv/format_date.liquid date_str=pub_date %}{% endcapture -%}
+                      {{- pub_date_formatted | strip -}}
                     </span>
                   </td>
                 </tr>
