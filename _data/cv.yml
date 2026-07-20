@@ -95,6 +95,11 @@ cv:
           - Accompanying patients and visitors
 
     Awards:
+      - title: MoFA Scholarship 2025
+        date: 2025-09
+        awarder: Molluskenforschung Austria
+        summary: "\"Global and Regional Genomic Insights into Quagga Mussel Invasions\", 3000 EUR"
+
       - title: Best Poster Award – Eawag Symposium
         date: 2025-09
         awarder: Eawag
@@ -105,9 +110,305 @@ cv:
         awarder: Hydrobiologie-Limnologie-Stiftung für Gewässerforschung
         summary: "Master thesis: Conservation genomics of the freshwater mussel Anodonta anatina in Switzerland. Prize: 3000 CHF"
 
-    Workshops and Seminars:
-      - label: "Model-Based Demographic Inference from Population Genomic Data — Physalia Course (online) (Jul 2026)"
-        details: "Coalescent-based demographic inference from genomic data (SFS methods, PSMC/MSMC2, IMa3)"
+    Attended Courses and Workshops:
+      - position: "Model-Based Demographic Inference from Population Genomic Data"
+        company: Physalia Course (online)
+        start_date: 2026-07
+        end_date: 2026-07
+        highlights:
+          - "Coalescent-based demographic inference from genomic data (SFS methods, PSMC/MSMC2, IMa3)"
+
+      - position: "ETH/Evoltree Winter School: Genomics of Environmental Adaptation"
+        company: WSL
+        start_date: 2026-01
+        end_date: 2026-01
+        highlights:
+          - "Advanced concepts in environmental genomics linking adaptive genetic variation to environmental gradients"
+          - "Hands-on training in detecting signatures of selection, including outlier analyses and genotype–environment associations"
+          - "Worked with environmental predictors (data availability/limitations, collinearity) and multiple-testing control (false discovery rates)"
+          - "Applied approaches for GWAS, genotype–phenotype links, and follow-up analyses; discussed strengths, limitations, and pitfalls of methods"
+
+      - position: "Exchange Eawag and Baudirektion Canton Zurich"
+        company: Quagga Mussels
+        start_date: 2025-10
+        end_date: 2025-10
+
+      - position: "Introduction to Population Genomics"
+        company: Physalia Course (online)
+        start_date: 2025-05
+        end_date: 2025-05
+        highlights:
+          - "Comprehensive overview of population genomics methods and their applications"
+          - "Hands-on training in analyzing population structure, detecting introgression, and modeling demographic history"
+          - "Practical exercises with genome-wide association studies and landscape genomics"
+          - "Experience with empirical datasets and bioinformatics workflows for large-scale sequencing data"
+
+      - position: "3rd Genetic Diversity Monitoring Workshop"
+        company: ETH Zurich
+        start_date: 2023-01
+        end_date: 2023-01
+
+      - position: "Speciation Genomics"
+        company: Physalia Course (online)
+        start_date: 2022-12
+        end_date: 2022-12
+        highlights:
+          - "Handling NGS data from raw reads to genetic variants"
+          - "Applying basic population genetic statistics"
+          - "Visualizing genetic structure and inferring demographic history"
+          - "Identifying regions under divergent selection or barriers to gene flow"
+
+    Attended Conferences and Seminars:
+      - position: 'SeeWandel-Climate Thematic Working Group "Importance of the Quagga Mussel"'
+        company: Eawag
+        location: Dübendorf
+        start_date: 2026-02
+        end_date: 2026-02
+
+      - position: "PEAK-Vertiefungskurs V58/26: Quaggamuschel in der Schweiz – aktueller Wissensstand und Weiterentwicklung von Präventions- und Monitoringmassnahmen"
+        company: Eawag
+        location: Dübendorf
+        start_date: 2026-02
+        end_date: 2026-02
+        highlights:
+          - "Talk: Die Invasion entschlüsseln: Populationsgenomik und Ausbreitung der Quaggamuschel"
+          - "Short advanced course covering fundamentals, best practices, and emerging concepts for the prevention and management of invasive quagga mussels in Switzerland (including monitoring strategies for early detection and population dynamics)"
+          - "Exchange with authorities, environmental consultancies, and operators of energy and water infrastructure"
+
+      - position: "Biology26"
+        company: Neuchatel
+        start_date: 2026-02
+        end_date: 2026-02
+        highlights:
+          - "Talk: Beneath the Surface: Exploring Benthic Macroinvertebrate Communities in Lake Zurich"
+
+      - position: 'Sitzung Cercle Exotique Arbeitsgruppe "Aquatische Neobiota" (AquaNeo)'
+        company: FEON
+        location: Berne
+        start_date: 2025-11
+        end_date: 2025-11
+        highlights:
+          - "Participated in national exchange on current projects and strategies addressing invasive aquatic species in Switzerland"
+
+      - position: "MoFA-Tagung 2025"
+        company: Biodiversitätszentrum Oberösterreich
+        location: Linz
+        start_date: 2025-09
+        end_date: 2025-09
+        highlights:
+          - "Talk: Global and Regional Genomic Insights into Quagga Mussel Invasions"
+          - "Recipient of MoFA Scholarship, 3000 EUR"
+
+      - position: "Eawag Symposium"
+        company: Eawag
+        start_date: 2025-09
+        end_date: 2025-09
+        highlights:
+          - 'Poster: "Beneath the Surface: Exploring Benthic Macroinvertebrate Communities in Lake Zurich"'
+          - "Recipient of the Best Poster Award"
+
+      - position: "1st Swiss Lake Day"
+        company: University Lausanne
+        start_date: 2025-09
+        end_date: 2025-09
+        highlights:
+          - 'Poster: "Beneath the Surface: Exploring Benthic Macroinvertebrate Communities in Lake Zurich"'
+
+      - position: "Angewandte Naturschutzgenetik für die Praxis"
+        company: University Berne
+        start_date: 2025-06
+        end_date: 2025-06
+
+      - position: "PhD Symposium"
+        company: Aquatic Ecology, Eawag
+        location: Dübendorf
+        start_date: 2025-05
+        end_date: 2025-05
+        highlights:
+          - 'Presentation: "Beneath the Surface: Exploring Benthic Macroinvertebrate Communities in Lake Zurich"'
+
+      - position: "Biology25"
+        company: EPFL Lausanne
+        start_date: 2025-02
+        end_date: 2025-02
+        highlights:
+          - "Poster: Benthic Macroinvertebrate Community of Lake Zurich and Obersee"
+
+      - position: 'SeeWandel-Climate Thematic Working Group "Importance of the Quagga Mussel"'
+        company: Eawag
+        location: Dübendorf
+        start_date: 2024-12
+        end_date: 2024-12
+
+      - position: "PEAK (Praxisorientierte Eawag-Kurse)"
+        company: Eawag
+        location: Dübendorf
+        start_date: 2024-03
+        end_date: 2024-03
+        highlights:
+          - "Quaggamuschel in der Schweiz – Grundlagen und Weiterentwicklung von Präventions- und Monitoringsmassnahmen"
+
+      - position: "22nd Swiss Geoscience Meeting"
+        company: Basel
+        start_date: 2024-11
+        end_date: 2024-11
+
+      - position: 'SeeWandel-Climate Thematic Working Group "Importance of the Quagga Mussel"'
+        company: Eawag
+        location: Dübendorf
+        start_date: 2024-05
+        end_date: 2024-05
+
+      - position: "Fachaustausch Grossmuscheln"
+        company: Netzwerk Gewässerökologie
+        location: Aarau
+        start_date: 2024-05
+        end_date: 2024-05
+
+      - position: "PEAK (Praxisorientierte Eawag-Kurse)"
+        company: Eawag
+        location: Dübendorf
+        start_date: 2023-03
+        end_date: 2023-03
+        highlights:
+          - "Gebietsfremde Arten in Schweizer Gewässern"
+
+    Organization of Conferences:
+      - position: "PhD Symposium Organizer"
+        company: Eawag
+        location: Dübendorf
+        start_date: 2025-05
+        end_date: 2025-05
+        highlights:
+          - "Organized a symposium with Eawag PhD students and keynote speakers Dr. Jes Hines (Leipzig University), Prof. Levi Yant (University of Nottingham), and Prof. Federico Riva (University of Amsterdam). Managed invitations, logistics, program preparation, and event coordination."
+
+    Publications:
+      - title: "Beyond genetic indicators: how reproductive mode and hybridization challenge freshwater mussel conservation"
+        publisher: Molecular Ecology
+        date: 2025
+        summary: "Faust E*, Conrads J*, Giulio M, Ciofi C, Natali C, Feulner PGD, Weber A.A-T. *Equal contribution. Submitted manuscript / preprint."
+
+    Datasets:
+      - title: "Beyond genetic indicators: how reproductive mode and hybridization challenge freshwater mussel conservation (Version 1.0)"
+        publisher: "Eawag: Swiss Federal Institute of Aquatic Science and Technology — ERIC Open Data package"
+        date: 2025
+        summary: "Faust E*, Conrads J*, Giulio M, Ciofi C, Natali C, Feulner PGD, Weber A.A-T. *Equal contribution."
+
+      - title: "Conservation genomics of Anodonta freshwater mussels in Switzerland (Version 1.1)"
+        publisher: "Swiss National Biodiversity Data and Information Centres – infospecies.ch, via GBIF.org"
+        date: 2025
+        summary: "Faust E*, Conrads J*, Feulner PGD, Weber A.A-T. *Equal contribution."
+
+    Tutoring and Supervision:
+      - position: "Tutor, Ecology & Evolution: Term Paper and Seminar"
+        company: ETH Zürich
+        start_date: 2025-10
+        end_date: present
+        highlights:
+          - "Tutoring in the MSc level course Ecology and Evolution: Term Paper and Seminar (Course No. 701-1461-00). Responsibilities include proposing and presenting research topics, guiding a student in developing their term paper and providing feedback."
+
+      - position: "Co-Supervisor of MSc Student"
+        company: Jokela Lab, Eawag
+        location: Dübendorf
+        start_date: 2025-04
+        end_date: 2025-11
+        highlights:
+          - "Supervising MSc student A. Püntener on research involving Microsporidia in Dikerogammarus villosus."
+
+      - position: "Block Course Project Supervision"
+        company: Eawag
+        location: Dübendorf
+        start_date: 2025-09
+        end_date: 2025-10
+        highlights:
+          - "Supervised three MSc students during the ETH block course Aquatic Ecology (Course No. 701-2437-01L). Responsibilities included teaching benthic macroinvertebrate identification from Lake Zurich samples, guiding data analysis, and grading project work."
+
+      - position: "Intern Supervisor"
+        company: Eawag
+        location: Dübendorf
+        start_date: 2025-03
+        end_date: 2025-04
+        highlights:
+          - "Supervised and mentored a high school student intern (Gymnasium Kirchenfeld) for a three-week professional internship; provided guidance in experiment, research tasks, and career orientation."
+
+      - position: "Umweltbiologie Bachelors Seminarkurse"
+        company: ETH Zurich
+        start_date: 2024-11
+        end_date: 2024-11
+        highlights:
+          - "Guiding third year bachelor's students in preparing and presenting scientific topics and providing feedback."
+
+    Outreach Activities and Media Coverage:
+      - position: "Biodiversity Career Day"
+        company: University Zurich
+        start_date: 2025-11
+        end_date: 2025-11
+        highlights:
+          - "Represented Eawag at the Biodiversity Career Day, engaging with students about research careers and opportunities in aquatic science and biodiversity."
+
+      - position: "Filmed Interview"
+        company: SRF 1
+        start_date: 2025-08
+        end_date: 2025-08
+        highlights:
+          - "Participated in an interview for SRF 1, Radio SRF1."
+
+      - position: "Filmed Interview"
+        company: TeleZ
+        start_date: 2025-05
+        end_date: 2025-05
+        highlights:
+          - "Participated in an interview for TeleZ, Aktuell, News report at 18:00."
+
+      - position: "News Article"
+        company: NZZ
+        start_date: 2025-05
+        end_date: 2025-05
+        highlights:
+          - 'Participated in an interview for NZZ, "Quagga-Alarm im Zürichsee: Ein klebriges Tierchen wird zur Herausforderung für die Trinkwasserversorgung", communicating current research of Lake Zurich.'
+
+      - position: "Article"
+        company: Swiss Fireball Regatta Monthly Edition
+        start_date: 2025-01
+        end_date: 2025-01
+        highlights:
+          - 'Written interview for Swiss Fireball, "Gekommen um zu bleiben: die Quaggamuschel."'
+
+      - position: "Filmed Interview"
+        company: SRF Einstein
+        start_date: 2024-11
+        end_date: 2024-11
+        highlights:
+          - 'Participated in a filmed interview for SRF Einstein "Invasive Quagga-Muscheln: Kollabierende Seen und Millionenschäden", communicating scientific research to a broad public audience.'
+
+      - position: "Media Coverage of Research Findings"
+        company: Quagga mussels in Lake Zurich
+        start_date: 2024-09
+        end_date: 2024-09
+        highlights:
+          - "Extensive media coverage reporting our finding of Quagga mussels in Lake Zürich during a benthic invertebrate survey, including: TeleZüri, Tagesanzeiger, NZZ, 20Minuten, Watson."
+
+    Field Work Experience:
+      - position: "Ekman Grab Sampling"
+        company: Lake Zurich
+        start_date: 2025-03
+        end_date: 2025-07
+        highlights:
+          - "Performed benthic sampling with an Ekman grab in Lake Zurich, completing 140 individual samples. Operated and navigated an ETH research vessel during field campaigns, ensuring accurate site positioning and efficient sampling."
+
+      - position: "Diving"
+        company: "Multiple lakes in Switzerland"
+        start_date: 2023-02
+        end_date: present
+        highlights:
+          - "Underwater fieldwork in multiple lakes in Switzerland. Tasks included vacuum suction sampling of benthic macroinvertebrates, testing dredge functionality in situ, and retrieving settlement plates to monitor zebra mussel colonization. Additional work involved the collection of quagga mussels and native freshwater snails for research, including specimens supporting a Master's thesis project (Jokela Lab)."
+
+      - position: "Sampling"
+        company: "Switzerland, Germany, and France"
+        start_date: 2023-02
+        end_date: present
+        highlights:
+          - "Collection of both native (e.g., Anodonta sp., Unio sp.) and non-native (e.g., quagga and zebra mussels, Asian clam) freshwater bivalves from multiple sites in Switzerland, Germany, and France. Shallow-water surveys conducted via snorkelling and SCUBA, while deep-water specimens were obtained using dredging methods from Eawag vessels and the R/V Kormoran (ISF, LUBW, Germany)."
 
     Skills:
       - name: Languages
@@ -123,7 +424,7 @@ cv:
       - name: Diving
         level: ""
         icon: fa-solid fa-water
-        keywords: "SSI Divemaster (300+ dives), Rescue Diver, First Aid and O2 Provider, Scientific diving"
+        keywords: "SSI Divemaster (>200 dives), Rescue Diver, First Aid and O2 Provider, Scientific diver"
 
       - name: Licences
         level: ""
