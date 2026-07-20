@@ -105,6 +105,10 @@ cv:
         awarder: Hydrobiologie-Limnologie-Stiftung für Gewässerforschung
         summary: "Master thesis: Conservation genomics of the freshwater mussel Anodonta anatina in Switzerland. Prize: 3000 CHF"
 
+    Workshops and Seminars:
+      - label: "Model-Based Demographic Inference from Population Genomic Data — Physalia Course (online) (Jul 2026)"
+        details: "Coalescent-based demographic inference from genomic data (SFS methods, PSMC/MSMC2, IMa3)"
+
     Skills:
       - name: Languages
         level: ""
