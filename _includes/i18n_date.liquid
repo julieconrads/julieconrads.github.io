@@ -1,0 +1,21 @@
+{% comment %}
+  Formats a date in the language of the page being built.
+  Usage: {% include i18n_date.liquid date=page.date format='long' %}
+  format: 'long'  -> "November 18, 2026" (en) / "18. November 2026" (de)
+          'short' -> "Nov 18, 2026" (en) / "18. Nov. 2026" (de)
+{% endcomment %}
+{%- assign i18n_lang = site.active_lang | default: site.lang -%}
+{%- assign i18n_strings = site.data[i18n_lang].strings | default: site.data.en.strings -%}
+{%- assign i18n_month = include.date | date: '%-m' | minus: 1 -%}
+{%- if include.format == 'short' -%}
+  {%- assign i18n_month_name = i18n_strings.months_short[i18n_month] -%}
+{%- else -%}
+  {%- assign i18n_month_name = i18n_strings.months_long[i18n_month] -%}
+{%- endif -%}
+{%- if i18n_lang == 'de' -%}
+  {{- include.date | date: '%-d' }}. {{ i18n_month_name }}
+  {{ include.date | date: '%Y' -}}
+{%- else -%}
+  {{- i18n_month_name }}
+  {{ include.date | date: '%d' }}, {{ include.date | date: '%Y' -}}
+{%- endif -%}

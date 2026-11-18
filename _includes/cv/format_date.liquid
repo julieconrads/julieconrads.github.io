@@ -6,11 +6,13 @@
 {% assign raw = include.date_str | default: '' %}
 {% assign raw_downcase = raw | downcase %}
 {% if raw_downcase == 'present' or raw_downcase == 'ongoing' %}
-  {{- 'Present' -}}
+  {%- assign t = site.data[site.active_lang].strings | default: site.data.en.strings -%}
+  {{- t.cv.present -}}
 {% else %}
   {% assign parts = raw | split: '-' %}
   {% if parts.size > 1 %}
-    {% assign months = 'Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec' | split: ',' %}
+    {% assign t = site.data[site.active_lang].strings | default: site.data.en.strings %}
+    {% assign months = t.months_short %}
     {% assign month_index = parts[1] | plus: 0 | minus: 1 %}
     {{- months[month_index] }}
     {{ parts[0] -}}

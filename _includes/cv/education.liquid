@@ -24,7 +24,8 @@
               {% capture endDate %}{% include cv/format_date.liquid date_str=end_date %}{% endcapture %}
               {% assign endDate = endDate | strip %}
             {% else %}
-              {% assign endDate = 'Present' %}
+              {% assign endDate = site.data[site.active_lang].strings | default: site.data.en.strings -%}
+              {%- assign endDate = endDate.cv.present %}
             {% endif %}
             {% assign date = startDate | append: ' - ' | append: endDate %}
           {% else %}

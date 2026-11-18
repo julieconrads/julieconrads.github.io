@@ -1,0 +1,53 @@
+# Interface labels used by the layouts and includes (English).
+# The German version is in _data/de/strings.yml and must have the same keys.
+
+language_name: English
+language_switch: EN
+
+news: news
+latest_posts: latest posts
+selected_publications: selected publications
+no_news: No news so far...
+no_posts: No posts so far...
+
+created_on: Created on
+last_updated_on: last updated on
+references: References
+min_read: min read
+
+related_title: Enjoy Reading This Article?
+related_intro: "Here are some more articles you might like to read next:"
+subscribe: "Subscribe to be notified of future articles:"
+
+copyright: Copyright
+last_updated: "Last updated:"
+
+months_short: [Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec]
+months_long: [January, February, March, April, May, June, July, August, September, October, November, December]
+
+cv:
+  present: Present
+  contact_information: Contact Information
+  name: Name
+  professional_title: Professional Title
+  email: Email
+  phone: Phone
+  location: Location
+  website: Website
+  professional_summary: Professional Summary
+  # Section headings, keyed by the section names used in _data/cv.yml
+  sections:
+    Education: Education
+    Experience: Experience
+    Awards: Awards
+    Attended Courses and Workshops: Attended Courses and Workshops
+    Attended Conferences and Seminars: Attended Conferences and Seminars
+    Organization of Conferences: Organization of Conferences
+    Publications: Publications
+    Datasets: Datasets
+    Tutoring and Supervision: Tutoring and Supervision
+    Outreach Activities and Media Coverage: Outreach Activities and Media Coverage
+    Field Work Experience: Field Work Experience
+    Skills: Skills
+    Interests: Interests
+    References: References
