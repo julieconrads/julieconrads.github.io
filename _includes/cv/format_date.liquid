@@ -3,7 +3,7 @@
   falls back to the year alone (e.g. "2026"), and passes "present"/"Present" through unchanged.
   Usage: {% capture x %}{% include cv/format_date.liquid date_str=some_date %}{% endcapture %}
 {% endcomment %}
-{% assign raw = include.date_str | default: '' %}
+{% assign raw = include.date_str | default: '' | strip %}
 {% assign raw_downcase = raw | downcase %}
 {% if raw_downcase == 'present' or raw_downcase == 'ongoing' %}
   {%- assign t = site.data[site.active_lang].strings | default: site.data.en.strings -%}
