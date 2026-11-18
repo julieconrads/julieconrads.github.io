@@ -162,8 +162,10 @@ cv:
       - position: 'SeeWandel-Climate Thematic Working Group "Importance of the Quagga Mussel"'
         company: Eawag
         location: Dübendorf
-        start_date: 2026-02
-        end_date: 2026-02
+        start_date: 2026-11
+        end_date: 2026-11
+        highlights:
+          - "Talk: Invasion of Lake Zurich"
 
       - position: "PEAK-Vertiefungskurs V58/26: Quaggamuschel in der Schweiz – aktueller Wissensstand und Weiterentwicklung von Präventions- und Monitoringmassnahmen"
         company: Eawag
