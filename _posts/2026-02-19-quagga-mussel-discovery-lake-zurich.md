@@ -2,7 +2,7 @@
 layout: post
 title: How the Quagga Mussel Was Found in Lake Zurich
 date: 2026-02-19 09:00:00
-description: In September 2024, a routine sampling trip to Mythenquai ended with the first confirmed record of Quagga mussels in Lake Zurich. Here is that story.
+description: On 28 August 2024, a routine sampling trip to Mythenquai ended with the first confirmed record of Quagga mussels in Lake Zurich. Here is that story.
 tags: quagga-mussel lake-zurich invasion-biology
 categories: research
 thumbnail: assets/img/blog/Teaser_Quaggamuschel.jpg
@@ -16,7 +16,7 @@ Here is that story.
 
 ## A routine sampling trip
 
-In September 2024, [Jukka Jokela](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/jukka-jokela/show/) (Eawag) was snorkeling at Mythenquai, a public bathing area on the western shore of Lake Zurich, collecting benthic samples at 1 m depth. This was part of the benthic community survey of Lake Zurich, the same survey that forms the foundation of my [first PhD project](/projects/1_project/). Nothing about the day suggested it would be unusual.
+On 28 August 2024, [Jukka Jokela](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/jukka-jokela/show/) (Eawag) was snorkeling at Mythenquai, a public bathing area on the western shore of Lake Zurich, collecting benthic samples at 1 m depth. This was part of the benthic community survey of Lake Zurich, the same survey that forms the foundation of my [first PhD project](/projects/1_project/). Nothing about the day suggested it would be unusual.
 
 Among the material collected were small mussels that didn't look quite right for Zebra mussels (*Dreissena polymorpha*), which had been present in Lake Zurich since the 1970s. The shells were rounder and lacked the characteristic angular keel of the Zebra mussel.
 
@@ -30,6 +30,8 @@ Visual identification of *Dreissena* species can be uncertain: the two species o
 
 The result was unambiguous. The mussels were *Dreissena rostriformis bugensis*, the Quagga mussel. The first confirmed record in Lake Zurich.
 
+*Update (October 2026):* the first record is now formally reported in our preprint on the Lake Zurich benthos: Conrads et al. (2026), [Sequential invasion under disturbance drives functional homogenisation of lake benthos](https://www.biorxiv.org/content/10.64898/2026.10.22.760877v1), *bioRxiv*. The invasion is now followed in the [Quagga mussel monitoring project](/projects/5_project/).
+
 ---
 
 ## The response
@@ -42,7 +44,7 @@ Boat cleaning is now central to the management response. The [SMRP (Schiffsmotor
 
 ## What comes next
 
-The Quagga mussel was first detected in Switzerland in Lake Constance in 2016. By 2024 it had reached Lake Zurich. In Lake Constance, established populations now reach densities of around 8,000 individuals per square metre. In Lake Zurich at the time of discovery, densities were between 28 and 74 individuals per square metre.
+The Quagga mussel was first detected in Switzerland in the Rhine near Basel in 2014, and reached Lake Constance in 2016. By 2024 it had reached Lake Zurich. In Lake Constance, established populations now reach densities of around 8,000 individuals per square metre. In Lake Zurich at the time of discovery, densities were between 28 and 74 individuals per square metre.
 
 The invasion is in its early stages. The ecological trajectory of this species in Lake Zurich, and what it means for the benthic community already dominated by invasive species, is exactly what my PhD research is designed to track. How the Quagga mussel is spreading and adapting genetically across Swiss lakes is the focus of my [second PhD project](/projects/2_project/) on invasion genomics.
 

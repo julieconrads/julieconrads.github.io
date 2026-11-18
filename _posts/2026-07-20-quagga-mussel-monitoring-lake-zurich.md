@@ -40,7 +40,9 @@ What makes this particularly valuable is the timing: we caught the invasion at a
 
 Lake Zurich is already dealing with the effects of multiple invasive species, and I am currently writing up a paper on how the lake's benthic community has been affected so far. The Quagga mussel invasion will very likely add another detrimental layer on top of that. Continuing the benthos monitoring means we can follow this as it happens, not reconstruct it after the fact.
 
-More on this ongoing work can be found on the [Benthic Ecology: Lake Zurich project page](/projects/1_project/).
+More on this ongoing work can be found on the [Benthic Ecology: Lake Zurich project page](/projects/1_project/) and the [Quagga mussel monitoring project page](/projects/5_project/).
+
+*Update (October 2026):* the benthic community paper is now out as a preprint: Conrads et al. (2026), [Sequential invasion under disturbance drives functional homogenisation of lake benthos](https://www.biorxiv.org/content/10.64898/2026.10.22.760877v1), *bioRxiv*.
 
 <div class="row mt-3 g-2">
     <div class="col-6 mt-2">

@@ -3,7 +3,7 @@ layout: page
 title: "Physiology & Reproduction: Quagga Mussel"
 description: Characterising the full annual reproductive cycle of Quagga mussels across a depth gradient (1–250 m) in Lake Constance, asking what deep populations are actually doing down there.
 img: assets/img/gallery/quagga_constance_15m_1.jpg
-importance: 3
+importance: 4
 category: PhD Projects
 related_publications: false
 ---

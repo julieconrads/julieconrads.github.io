@@ -73,7 +73,7 @@ Also from the Ponto-Caspian region. One of the most aggressive freshwater amphip
     Quagga mussels (<em>Dreissena rostriformis bugensis</em>). © Julie Conrads
 </div>
 
-In September 2024, during my own benthic field surveys, I found the **Quagga mussel** (_Dreissena rostriformis bugensis_) in Lake Zurich, the first confirmed record. Like the Zebra mussel, it originates from the Ponto-Caspian region and arrived in Western Europe via ballast water. It first appeared in Switzerland in Lake Constance in 2014.
+In August 2024, the **Quagga mussel** (_Dreissena rostriformis bugensis_) was found in Lake Zurich during my benthic field survey, the first confirmed record. Like the Zebra mussel, it originates from the Ponto-Caspian region and arrived in Western Europe via ballast water. It first appeared in Switzerland in the Rhine near Basel in 2014, and in Lake Constance in 2016.
 
 The Quagga mussel is considered even more ecologically impactful than the Zebra mussel: it tolerates deeper water, softer sediments, and can reach extraordinary densities. In Lake Constance, established populations already reach ~8,000 ind. m⁻². In Lake Zurich today, densities are still low, between 28 and 74 ind. m⁻². The invasion is in its early stages. But history suggests what comes next.
 

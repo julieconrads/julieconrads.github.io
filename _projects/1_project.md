@@ -8,6 +8,11 @@ category: PhD Projects
 related_publications: false
 ---
 
+> ##### Preprint
+>
+> Conrads, J., Pas, V., Puentener, A., Sturm, L., Klappert, K., Walcher, C., Jokela, J. & Weber, A. A.-T. (2026). **Sequential invasion under disturbance drives functional homogenisation of lake benthos.** _bioRxiv_. [doi:10.64898/2026.10.22.760877](https://www.biorxiv.org/content/10.64898/2026.10.22.760877v1)
+{: .block-tip }
+
 ## Overview
 
 Lake Zurich is a pre-alpine lake in northeastern Switzerland and a key drinking water reservoir for the city of Zurich. No comprehensive baseline survey of its benthic macroinvertebrate community had previously been conducted. This project fills that gap, and asks a new question: do the Upper Lake (Obersee) and Lower Lake (Untersee) differ in how they have been invaded?
@@ -39,7 +44,7 @@ All samples were preserved in ethanol in the field, then sorted and identified u
 
 ## Dataset
 
-The dataset comprises **92,085 individuals** across **65 taxa** and **8 classes**, the first quantitative, multi-site, multi-depth baseline for the benthic invertebrate community of Lake Zurich.
+The dataset comprises **91,911 individuals** across **65 taxa** and **8 classes**, the first quantitative, multi-site, multi-depth baseline for the benthic invertebrate community of Lake Zurich.
 
 ---
 
@@ -57,9 +62,9 @@ The dataset comprises **92,085 individuals** across **65 taxa** and **8 classes*
 
 **The two basins differ functionally.** Upper Lake communities occupy broader functional trait space across all categories (FDis, FEve, FRic), suggesting higher functional diversity despite similar invasion levels at shallow depths. The Lower Lake is characterised by sessile active filter feeders on fine and hard substrates, while the Upper Lake supports more mobile gatherers and soft-substrate taxa.
 
-**The Quagga mussel invasion is still in its early stages in Lake Zurich.** The Zebra mussel (_Dreissena polymorpha_) currently dominates at most sites, but the Quagga mussel (_D. bugensis_), first detected here in 2024, is already present across the Lower Lake. In Lake Constance, where the Quagga mussel is established, densities reach ~8,000 ind. m⁻², a stark contrast to the current situation in Lake Zurich (~28–74 ind. m⁻²), and a possible preview of what is to come.
+**The Quagga mussel invasion is still in its early stages in Lake Zurich.** The Zebra mussel (_Dreissena polymorpha_) currently dominates at most sites, but the Quagga mussel (_D. bugensis_), first detected here in 2024, is already present across the Lower Lake. This survey is where the first Quagga mussels in Lake Zurich were found ([the story](/blog/2026/quagga-mussel-discovery-lake-zurich/)), and the invasion is now followed in the [Quagga mussel monitoring project](/projects/5_project/). In Lake Constance, where the Quagga mussel is established, densities reach ~8,000 ind. m⁻², a stark contrast to the current situation in Lake Zurich (~28–74 ind. m⁻²), and a possible preview of what is to come.
 
-**Compared to historical data, Zebra mussel densities have increased ~88× in the Lower Lake** (from 113 ind. m⁻² in 1978–1988 to 9,958 ind. m⁻² in 2024/25), while _Potamopyrgus antipodarum_ (New Zealand mudsnail) has declined ~43× (from 28,905 to 676 ind. m⁻²).
+**Compared to historical data, Zebra mussel density has risen roughly 120-fold** relative to the 1976–1988 baseline, while _Potamopyrgus antipodarum_ (New Zealand mudsnail) has declined ~43× (from 28,905 to 676 ind. m⁻²).
 
 ---
 
@@ -71,7 +76,7 @@ Three interacting factors likely explain why the Lower Lake shows a stronger inv
 2. **Habitat filtering**: 55% of the Lower Lake shoreline is artificial, compared to 35% in the Upper Lake. Modified shorelines filter out sensitive native taxa and create conditions where stress-tolerant and invasive species thrive.
 3. **Basin morphology**: Water flows from Upper to Lower Lake through the Rapperswil narrows. The Lower Lake (~65 km², max. 137 m deep) receives input that has already passed through the Upper Lake (~27 km², max. 48 m deep).
 
-A manuscript is currently in preparation.
+The full results are available as a [preprint on bioRxiv](https://www.biorxiv.org/content/10.64898/2026.10.22.760877v1).
 
 ---
 
