@@ -31,8 +31,8 @@ nav_order: 7
 
   <div class="gallery-masonry-item">
     <a href="{{ 'assets/img/gallery/quagga_harbour_bottinghofen.jpg' | relative_url }}" target="_blank">
-      <img src="{{ 'assets/img/gallery/quagga_harbour_bottinghofen.jpg' | relative_url }}" alt="Quaggamuscheln an einem Hafenpfosten, Bottinghofen" loading="lazy" />
-      <div class="gallery-masonry-overlay"><span>Quaggamuscheln an einem Hafenpfosten, Bottinghofen, Bodensee</span></div>
+      <img src="{{ 'assets/img/gallery/quagga_harbour_bottinghofen.jpg' | relative_url }}" alt="Quaggamuscheln an einem Hafenpfosten, Bottighofen" loading="lazy" />
+      <div class="gallery-masonry-overlay"><span>Quaggamuscheln an einem Hafenpfosten, Bottighofen, Bodensee</span></div>
     </a>
   </div>
 

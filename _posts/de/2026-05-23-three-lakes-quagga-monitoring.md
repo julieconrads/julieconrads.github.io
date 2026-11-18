@@ -9,7 +9,7 @@ categories: research
 thumbnail: assets/img/blog/PXL_20260508_100740298.MP.jpg
 ---
 
-Der Neuenburgersee (Lac de Neuchâtel), der Bielersee (Lac de Bienne) und der Murtensee (Lac de Morat) bilden in der Westschweiz ein zusammenhängendes Seensystem, verbunden durch den Hagneck- und den Broyekanal. Zusammen umfassen sie über 270 km² offene Wasserfläche und gehören damit zu den grössten Seennetzen des Landes – und gerade wegen dieser Vernetzung kann sich eine invasive Art hier rasch von einem Becken ins nächste ausbreiten.
+Der Neuenburgersee (Lac de Neuchâtel), der Bielersee (Lac de Bienne) und der Murtensee (Lac de Morat) bilden in der Westschweiz ein zusammenhängendes Seensystem, verbunden durch den Zihl- und den Broyekanal. Zusammen umfassen sie über 270 km² offene Wasserfläche und gehören damit zu den grössten Seennetzen des Landes – und gerade wegen dieser Vernetzung kann sich eine invasive Art hier rasch von einem Becken ins nächste ausbreiten.
 
 <div class="row mt-3 justify-content-center">
     <div class="col-sm-10 mt-3 mt-md-0">
@@ -24,7 +24,7 @@ Der Neuenburgersee (Lac de Neuchâtel), der Bielersee (Lac de Bienne) und der Mu
 
 ## Warum diese Seen überwachen?
 
-Die Quaggamuschel gelangte über den Bodensee in die Schweiz und hat sich seither westwärts über die grossen Seensysteme ausgebreitet. Ihre Ankunft im Drei-Seen-Land ist ein bedeutender Schritt in dieser Ausbreitung. Anders als eine Einzelbeobachtung macht erst ein wiederholtes Monitoring die Populationsdynamik sichtbar: wie schnell die Dichten zunehmen und ob die Muschel in neue Tiefen vordringt.
+Die Quaggamuschel wurde in der Schweiz erstmals 2014 im Rhein bei Basel nachgewiesen und hat sich seither über die grossen Seensysteme ausgebreitet. Ihre Ankunft im Drei-Seen-Land ist ein bedeutender Schritt in dieser Ausbreitung. Anders als eine Einzelbeobachtung macht erst ein wiederholtes Monitoring die Populationsdynamik sichtbar: wie schnell die Dichten zunehmen und ob die Muschel in neue Tiefen vordringt.
 
 ---
 
@@ -66,7 +66,7 @@ Die Probenahme erfolgte auf allen drei Seen vom Eawag-Boot «Calypso» aus. Mit 
 
 ## Was das vernetzte Seensystem für die Ausbreitung bedeutet
 
-Die drei Seen sind nicht voneinander isoliert. Der Hagneckkanal verbindet die Aare mit dem Bielersee, und der Broyekanal verbindet den Bielersee mit dem Murtensee, der wiederum in die Broye entwässert, die zum Neuenburgersee führt. Diese hydrologische Vernetzung bedeutet: Hat sich die Quaggamuschel einmal in einem Becken etabliert, bieten die Verdriftung der Larven und der Bootsverkehr gleich mehrere Wege ins nächste.
+Die drei Seen sind nicht voneinander isoliert. Der Broyekanal verbindet den Murtensee mit dem Neuenburgersee, der Zihlkanal den Neuenburgersee mit dem Bielersee, und der Hagneckkanal leitet die Aare in den Bielersee. Diese hydrologische Vernetzung bedeutet: Hat sich die Quaggamuschel einmal in einem Becken etabliert, bieten die Verdriftung der Larven und der Bootsverkehr gleich mehrere Wege ins nächste.
 
 ---
 

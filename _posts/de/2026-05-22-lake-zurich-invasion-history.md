@@ -91,7 +91,7 @@ Die Quaggamuschel gilt als ökologisch noch folgenreicher als die Zebramuschel: 
     Chronologie gebietsfremder Arten im Untersee: Erstnachweise im Zürichsee (Untersee). Basierend auf AWEL, Burla & Ribi (1998) und InfoFauna – Centre Suisse de Cartographie de la Faune.
 </div>
 
-Betrachtet man ein ganzes Jahrhundert an Neuankünften zusammen, zeichnet sich ein Muster ab. Die folgenreichsten Arten, Zebramuschel, Neuseeländische Zwergdeckelschnecke, Grosser Höckerflohkrebs und Quaggamuschel, teilen dieselbe Herkunft (pontokaspischer Raum) und denselben Ausbreitungsweg (Schifffahrt und vernetzte Wasserstrassen). Es sind ökologische Generalisten, die unter gestörten, von Invasionen gesättigten Bedingungen gedeihen.
+Betrachtet man ein ganzes Jahrhundert an Neuankünften zusammen, zeichnet sich ein Muster ab. Die folgenreichsten Arten teilen denselben Ausbreitungsweg (Schifffahrt und vernetzte Wasserstrassen), und drei von ihnen, Zebramuschel, Grosser Höckerflohkrebs und Quaggamuschel, stammen zudem aus demselben Gebiet (pontokaspischer Raum). Die Neuseeländische Zwergdeckelschnecke stammt, wie ihr Name sagt, aus Neuseeland. Es sind ökologische Generalisten, die unter gestörten, von Invasionen gesättigten Bedingungen gedeihen.
 
 Die Quaggamuschel ist nicht das Ende dieser Geschichte. Sie ist ihr neuestes Kapitel.
 
