@@ -28,7 +28,7 @@ Below 30 m, where diving is no longer practical, mussels are collected using Pon
     Left: Deploying gear on a calm Lake Constance. Right: Opening the Ponar grab after retrieval. Photos: © Julie Conrads.
 </div>
 
-*I will post about scientific diving soon — stay posted!*
+_I will post about scientific diving soon — stay posted!_
 
 ---
 
@@ -55,4 +55,4 @@ This gradient in density is itself ecologically informative. The deep zone of La
 
 ---
 
-*Fieldwork carried out May 2026. This project is part of a broader research initiative on Quagga mussel morphology led by [Joana L. Santos](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/joana-l-santos/show/) (Eawag).*
+_Fieldwork carried out May 2026. This project is part of a broader research initiative on Quagga mussel morphology led by [Joana L. Santos](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/joana-l-santos/show/) (Eawag)._

@@ -28,13 +28,13 @@ In the benthic survey itself (1 m in 2024, 5 m and 15 m in 2025), Quagga mussels
 
 ## Timeline
 
-| When           | What happened                                                                                   |
-| -------------- | ----------------------------------------------------------------------------------------------- |
-| 28 August 2024 | Benthic sampling at Mythenquai (1 m): first Quagga mussels, confirmed by COI barcoding          |
+| When           | What happened                                                                                            |
+| -------------- | -------------------------------------------------------------------------------------------------------- |
+| 28 August 2024 | Benthic sampling at Mythenquai (1 m): first Quagga mussels, confirmed by COI barcoding                   |
 | September 2024 | Canton of Zurich announces the finding and bans boat launching on Greifensee, Pfäffikersee and Türlersee |
-| April 2025     | Mandatory boat cleaning and reporting comes into force; benthic sampling at 5 m and 15 m       |
-| July 2025      | First Quagga mussel monitoring with AWEL                                                         |
-| July 2026      | Second round of monitoring                                                                       |
+| April 2025     | Mandatory boat cleaning and reporting comes into force; benthic sampling at 5 m and 15 m                 |
+| July 2025      | First Quagga mussel monitoring with AWEL                                                                 |
+| July 2026      | Second round of monitoring                                                                               |
 
 ---
 

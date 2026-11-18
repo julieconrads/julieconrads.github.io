@@ -97,4 +97,3 @@ The Quagga mussel is not the end of this story. It is the latest chapter.
 ---
 
 _The invasion chronology is based on first records in the Lower Lake compiled from AWEL (Amt für Abfall, Wasser, Energie und Luft, Kanton Zürich), Burla, H. & Ribi, G. (1998). Population density of the snail_ Potamopyrgus antipodarum _in Lake Zurich._ Aquatic Sciences _60(1), 33–39, and InfoFauna – Centre Suisse de Cartographie de la Faune (infofauna.ch)._
-

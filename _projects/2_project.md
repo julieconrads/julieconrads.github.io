@@ -44,4 +44,4 @@ A manuscript is in preparation.
 
 ## Further Reading
 
-Marescaux, J., Von Oheimb, K.C.M., Geismar, J., Hyde, C., Dijkstra, K.-D.B., Wolff, C., Van Doninck, K. & Vanheusden, B. (2016). Unravelling the invasion pathways of the quagga mussel (*Dreissena rostriformis*) into Western Europe. *Biological Invasions*, 18, 245–264. [https://doi.org/10.1007/s10530-015-1005-1](https://doi.org/10.1007/s10530-015-1005-1)
+Marescaux, J., Von Oheimb, K.C.M., Geismar, J., Hyde, C., Dijkstra, K.-D.B., Wolff, C., Van Doninck, K. & Vanheusden, B. (2016). Unravelling the invasion pathways of the quagga mussel (_Dreissena rostriformis_) into Western Europe. _Biological Invasions_, 18, 245–264. [https://doi.org/10.1007/s10530-015-1005-1](https://doi.org/10.1007/s10530-015-1005-1)

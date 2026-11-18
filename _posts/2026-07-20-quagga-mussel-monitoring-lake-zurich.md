@@ -42,7 +42,7 @@ Lake Zurich is already dealing with the effects of multiple invasive species, an
 
 More on this ongoing work can be found on the [Benthic Ecology: Lake Zurich project page](/projects/1_project/) and the [Quagga mussel monitoring project page](/projects/5_project/).
 
-*Update (October 2026):* the benthic community paper is now out as a preprint: Conrads et al. (2026), [Sequential invasion under disturbance drives functional homogenisation of lake benthos](https://www.biorxiv.org/content/10.64898/2026.10.22.760877v1), *bioRxiv*.
+_Update (October 2026):_ the benthic community paper is now out as a preprint: Conrads et al. (2026), [Sequential invasion under disturbance drives functional homogenisation of lake benthos](https://www.biorxiv.org/content/10.64898/2026.10.22.760877v1), _bioRxiv_.
 
 <div class="row mt-3 g-2">
     <div class="col-6 mt-2">
@@ -83,4 +83,4 @@ Tomorrow we continue to the Obersee (Upper Lake Zurich) for another round of mac
 
 ---
 
-*Originally shared on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7480624793403232256/). Fieldwork carried out in collaboration with AWEL, Kanton Zürich (Thomas Müller) and Eawag.*
+_Originally shared on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7480624793403232256/). Fieldwork carried out in collaboration with AWEL, Kanton Zürich (Thomas Müller) and Eawag._

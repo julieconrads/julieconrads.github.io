@@ -8,10 +8,14 @@ category: PhD Projects
 related_publications: false
 ---
 
-> ##### Preprint
->
-> Conrads, J., Pas, V., Puentener, A., Sturm, L., Klappert, K., Walcher, C., Jokela, J. & Weber, A. A.-T. (2026). **Sequential invasion under disturbance drives functional homogenisation of lake benthos.** _bioRxiv_. [doi:10.64898/2026.10.22.760877](https://www.biorxiv.org/content/10.64898/2026.10.22.760877v1)
-{: .block-tip }
+<blockquote class="block-tip">
+  <h5>Preprint</h5>
+  <p>
+    Conrads, J., Pas, V., Puentener, A., Sturm, L., Klappert, K., Walcher, C., Jokela, J. &amp; Weber, A. A.-T. (2026).
+    <strong>Sequential invasion under disturbance drives functional homogenisation of lake benthos.</strong>
+    <em>bioRxiv</em>. <a href="https://www.biorxiv.org/content/10.64898/2026.10.22.760877v1">doi:10.64898/2026.10.22.760877</a>
+  </p>
+</blockquote>
 
 ## Overview
 
@@ -72,7 +76,7 @@ The dataset comprises **91,911 individuals** across **65 taxa** and **8 classes*
 
 Three interacting factors likely explain why the Lower Lake shows a stronger invasion signal:
 
-1. **Invasion pressure**: The Lower Lake has 53 registered marinas (536 permits) compared to 17 (206 permits) in the Upper Lake, and receives more boat traffic from high-risk source waters such as Lake Constance and Vierwaldstättersee. *(Daten von Koordinationsstelle SMRP)*
+1. **Invasion pressure**: The Lower Lake has 53 registered marinas (536 permits) compared to 17 (206 permits) in the Upper Lake, and receives more boat traffic from high-risk source waters such as Lake Constance and Vierwaldstättersee. _(Daten von Koordinationsstelle SMRP)_
 2. **Habitat filtering**: 55% of the Lower Lake shoreline is artificial, compared to 35% in the Upper Lake. Modified shorelines filter out sensitive native taxa and create conditions where stress-tolerant and invasive species thrive.
 3. **Basin morphology**: Water flows from Upper to Lower Lake through the Rapperswil narrows. The Lower Lake (~65 km², max. 137 m deep) receives input that has already passed through the Upper Lake (~27 km², max. 48 m deep).
 

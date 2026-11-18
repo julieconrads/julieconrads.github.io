@@ -12,7 +12,8 @@
   {% if parts.size > 1 %}
     {% assign months = 'Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec' | split: ',' %}
     {% assign month_index = parts[1] | plus: 0 | minus: 1 %}
-    {{- months[month_index] }} {{ parts[0] -}}
+    {{- months[month_index] }}
+    {{ parts[0] -}}
   {% else %}
     {{- parts[0] -}}
   {% endif %}

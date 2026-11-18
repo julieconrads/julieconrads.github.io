@@ -19,13 +19,11 @@ The Neuenburgersee (Lac de Neuchâtel), Bielersee (Lac de Bienne), and Murtensee
     The Three Lakes region (Drei-Seen-Land): Neuenburgersee, Bielersee, and Murtensee, connected by the Zihl and Broye canals. Map: <a href="https://www.boote-magazin.de" target="_blank">Boote-Magazin.de</a>
 </div>
 
-
 ---
 
 ## Why monitor these lakes?
 
 The Quagga mussel reached Switzerland via Lake Constance and has since spread westward through major lake systems. Its arrival in the Three Lakes region represents a significant step in that dispersal. Unlike a single observation, repeated monitoring is what reveals population dynamics: how fast densities are growing, whether the mussel is expanding into new depths.
-
 
 ---
 
@@ -71,4 +69,4 @@ The three lakes are not isolated. The Hagneck Canal connects the Aare to Bielers
 
 ---
 
-*Campaign led by [Thomas Müller](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/thomas-mueller/show/) (Eawag). Sampling carried out May 2026.*
+_Campaign led by [Thomas Müller](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/thomas-mueller/show/) (Eawag). Sampling carried out May 2026._

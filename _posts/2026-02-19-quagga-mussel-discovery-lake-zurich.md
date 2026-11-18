@@ -8,7 +8,7 @@ categories: research
 thumbnail: assets/img/blog/Teaser_Quaggamuschel.jpg
 ---
 
-When the Quagga mussel (*Dreissena rostriformis bugensis*) made headlines in autumn 2024, the coverage focused on what would come next: boat-cleaning rules and launch bans. What received less attention was the discovery itself: a quiet afternoon at a Zurich lakeshore, a handful of small mussels, and the gradual realisation that something had changed.
+When the Quagga mussel (_Dreissena rostriformis bugensis_) made headlines in autumn 2024, the coverage focused on what would come next: boat-cleaning rules and launch bans. What received less attention was the discovery itself: a quiet afternoon at a Zurich lakeshore, a handful of small mussels, and the gradual realisation that something had changed.
 
 Here is that story.
 
@@ -18,7 +18,7 @@ Here is that story.
 
 On 28 August 2024, [Jukka Jokela](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/jukka-jokela/show/) (Eawag) was snorkeling at Mythenquai, a public bathing area on the western shore of Lake Zurich, collecting benthic samples at 1 m depth. This was part of the benthic community survey of Lake Zurich, the same survey that forms the foundation of my [first PhD project](/projects/1_project/). Nothing about the day suggested it would be unusual.
 
-Among the material collected were small mussels that didn't look quite right for Zebra mussels (*Dreissena polymorpha*), which had been present in Lake Zurich since the 1970s. The shells were rounder and lacked the characteristic angular keel of the Zebra mussel.
+Among the material collected were small mussels that didn't look quite right for Zebra mussels (_Dreissena polymorpha_), which had been present in Lake Zurich since the 1970s. The shells were rounder and lacked the characteristic angular keel of the Zebra mussel.
 
 [Lars Sturm](https://www.sfu.ca/biology/people/graduate-students/lsa165/), then working at Eawag and now a PhD student at Simon Fraser University, examined the specimens and made the first identification: Quagga mussels.
 
@@ -26,11 +26,11 @@ Among the material collected were small mussels that didn't look quite right for
 
 ## Confirmation
 
-Visual identification of *Dreissena* species can be uncertain: the two species overlap in shell morphology, and juveniles are particularly difficult to distinguish. The specimens were passed to lab technician [Marco Giulio](https://www.eawag.ch/de/ueber-uns/portraet/organisation/mitarbeitende/profile/marco-giulio/show/) (Eawag), who confirmed the identification using **COI barcoding**, a standard DNA-based method that uses a short, diagnostic segment of the mitochondrial cytochrome oxidase I gene to identify species with certainty.
+Visual identification of _Dreissena_ species can be uncertain: the two species overlap in shell morphology, and juveniles are particularly difficult to distinguish. The specimens were passed to lab technician [Marco Giulio](https://www.eawag.ch/de/ueber-uns/portraet/organisation/mitarbeitende/profile/marco-giulio/show/) (Eawag), who confirmed the identification using **COI barcoding**, a standard DNA-based method that uses a short, diagnostic segment of the mitochondrial cytochrome oxidase I gene to identify species with certainty.
 
-The result was unambiguous. The mussels were *Dreissena rostriformis bugensis*, the Quagga mussel. The first confirmed record in Lake Zurich.
+The result was unambiguous. The mussels were _Dreissena rostriformis bugensis_, the Quagga mussel. The first confirmed record in Lake Zurich.
 
-*Update (October 2026):* the first record is now formally reported in our preprint on the Lake Zurich benthos: Conrads et al. (2026), [Sequential invasion under disturbance drives functional homogenisation of lake benthos](https://www.biorxiv.org/content/10.64898/2026.10.22.760877v1), *bioRxiv*. The invasion is now followed in the [Quagga mussel monitoring project](/projects/5_project/).
+_Update (October 2026):_ the first record is now formally reported in our preprint on the Lake Zurich benthos: Conrads et al. (2026), [Sequential invasion under disturbance drives functional homogenisation of lake benthos](https://www.biorxiv.org/content/10.64898/2026.10.22.760877v1), _bioRxiv_. The invasion is now followed in the [Quagga mussel monitoring project](/projects/5_project/).
 
 ---
 
