@@ -8,7 +8,7 @@ categories: research
 thumbnail: assets/img/blog/PXL_20260508_100740298.MP.jpg
 ---
 
-The Neuenburgersee (Lac de Neuchâtel), Bielersee (Lac de Bienne), and Murtensee (Lac de Morat) form a connected lake system in western Switzerland, linked by the Hagneck and Broye canals. Together they cover over 270 km² of open water, making them one of the largest lake networks in the country — and, because of that connectivity, a system where an invasive species can spread rapidly from one basin to the next.
+The Neuenburgersee (Lac de Neuchâtel), Bielersee (Lac de Bienne), and Murtensee (Lac de Morat) form a connected lake system in western Switzerland, linked by the Zihl and Broye canals. Together they cover over 270 km² of open water, making them one of the largest lake networks in the country — and, because of that connectivity, a system where an invasive species can spread rapidly from one basin to the next.
 
 <div class="row mt-3 justify-content-center">
     <div class="col-sm-10 mt-3 mt-md-0">
@@ -23,7 +23,7 @@ The Neuenburgersee (Lac de Neuchâtel), Bielersee (Lac de Bienne), and Murtensee
 
 ## Why monitor these lakes?
 
-The Quagga mussel reached Switzerland via Lake Constance and has since spread westward through major lake systems. Its arrival in the Three Lakes region represents a significant step in that dispersal. Unlike a single observation, repeated monitoring is what reveals population dynamics: how fast densities are growing, whether the mussel is expanding into new depths.
+The Quagga mussel was first recorded in Switzerland in the Rhine near Basel in 2014 and has since spread through the major lake systems. Its arrival in the Three Lakes region represents a significant step in that dispersal. Unlike a single observation, repeated monitoring is what reveals population dynamics: how fast densities are growing, whether the mussel is expanding into new depths.
 
 ---
 
@@ -65,7 +65,7 @@ Sampling was carried out on the Eawag boat "Calypso" across all three lakes, usi
 
 ## What the connected lake system means for spread
 
-The three lakes are not isolated. The Hagneck Canal connects the Aare to Bielersee, and the Broye Canal connects Bielersee to Murtensee, which in turn drains into the Broye river leading to Neuenburgersee. This hydrological connectivity means that once the Quagga mussel is established in one basin, larval dispersal and boat traffic provide multiple pathways into the next.
+The three lakes are not isolated. The Broye Canal connects Murtensee to Neuenburgersee, the Zihl Canal connects Neuenburgersee to Bielersee, and the Hagneck Canal brings the Aare into Bielersee. This hydrological connectivity means that once the Quagga mussel is established in one basin, larval dispersal and boat traffic provide multiple pathways into the next.
 
 ---
 

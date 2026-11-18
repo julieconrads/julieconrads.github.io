@@ -30,8 +30,8 @@ nav_order: 7
 
   <div class="gallery-masonry-item">
     <a href="{{ 'assets/img/gallery/quagga_harbour_bottinghofen.jpg' | relative_url }}" target="_blank">
-      <img src="{{ 'assets/img/gallery/quagga_harbour_bottinghofen.jpg' | relative_url }}" alt="Quagga mussels on harbour post, Bottinghofen" loading="lazy" />
-      <div class="gallery-masonry-overlay"><span>Quagga mussels on a harbour post, Bottinghofen, Lake Constance</span></div>
+      <img src="{{ 'assets/img/gallery/quagga_harbour_bottinghofen.jpg' | relative_url }}" alt="Quagga mussels on harbour post, Bottighofen" loading="lazy" />
+      <div class="gallery-masonry-overlay"><span>Quagga mussels on a harbour post, Bottighofen, Lake Constance</span></div>
     </a>
   </div>
 

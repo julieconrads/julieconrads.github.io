@@ -90,7 +90,7 @@ The Quagga mussel is considered even more ecologically impactful than the Zebra 
     Non-native species chronology in the Lower Lake: first records in Lake Zurich (Untersee / Lower Lake). Based on AWEL, Burla & Ribi (1998), and InfoFauna – Centre Suisse de Cartographie de la Faune.
 </div>
 
-Looking at a century of arrivals together, a pattern emerges. The most impactful species, Zebra mussel, New Zealand mudsnail, Killer shrimp, and Quagga mussel, share the same origin (Ponto-Caspian region) and the same pathway (shipping and waterway connectivity). They are ecological generalists that thrive in disturbed, invasion-saturated conditions.
+Looking at a century of arrivals together, a pattern emerges. The most impactful species share the same pathway (shipping and waterway connectivity), and three of them, the Zebra mussel, Killer shrimp, and Quagga mussel, also share the same origin (Ponto-Caspian region). The New Zealand mudsnail, as its name says, comes from New Zealand. They are ecological generalists that thrive in disturbed, invasion-saturated conditions.
 
 The Quagga mussel is not the end of this story. It is the latest chapter.
 

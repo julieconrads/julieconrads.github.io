@@ -117,6 +117,31 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+          {% if site.languages.size > 1 %}
+            <!-- Language switch: links to this page in the other language(s) -->
+            {% for lang in site.languages %}
+              {% unless lang == site.active_lang %}
+                {% if lang == site.default_lang %}
+                  {% assign lang_href = site.baseurl | append: page.url %}
+                {% else %}
+                  {% assign lang_href = site.baseurl | append: '/' | append: lang | append: page.url %}
+                {% endif %}
+                <li class="nav-item">
+                  <a
+                    class="nav-link"
+                    {% static_href -%}
+                    href="{{ lang_href }}"
+                    {% endstatic_href %}
+                    hreflang="{{ lang }}"
+                    lang="{{ lang }}"
+                    title="{{ site.data[lang].strings.language_name }}"
+                  >
+                    {{- site.data[lang].strings.language_switch -}}
+                  </a>
+                </li>
+              {% endunless %}
+            {% endfor %}
+          {% endif %}
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">

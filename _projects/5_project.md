@@ -20,7 +20,7 @@ This project grew directly out of my [benthic survey of Lake Zurich](/projects/1
 
 On 28 August 2024, during the 1 m sampling of the [benthic macroinvertebrate survey](/projects/1_project/), [Jukka Jokela](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/jukka-jokela/show/) (Eawag) collected samples at Mythenquai in Zurich. Among the material were small mussels that did not look quite like Zebra mussels. [Lars Sturm](https://www.sfu.ca/biology/people/graduate-students/lsa165/) identified them as Quagga mussels, and [Marco Giulio](https://www.eawag.ch/de/ueber-uns/portraet/organisation/mitarbeitende/profile/marco-giulio/show/) (Eawag) confirmed the identification with COI barcoding. It was the first record of the species in Lake Zurich.
 
-The full story of the discovery is in the blog post [How the Quagga Mussel Was Found in Lake Zurich]({% post_url 2026-02-19-quagga-mussel-discovery-lake-zurich %}).
+The full story of the discovery is in the blog post [How the Quagga Mussel Was Found in Lake Zurich](/blog/2026/quagga-mussel-discovery-lake-zurich/).
 
 In the benthic survey itself (1 m in 2024, 5 m and 15 m in 2025), Quagga mussels were still rare. They were present at all five Lower Lake sites, but at densities roughly three orders of magnitude below the Zebra mussel, and absent from the Upper Lake ([Conrads et al. 2026, bioRxiv](https://www.biorxiv.org/content/10.64898/2026.10.22.760877v1)).
 
@@ -60,7 +60,7 @@ Since 2025, we have sampled the lake bottom each July together with AWEL, Kanton
 
 **The Quagga mussel population in Lake Zurich is increasing.** Only two years after the first record, and from very low numbers in the benthic survey, Quagga mussels are now found in clearly higher numbers in the monitoring samples.
 
-Field impressions from the July 2026 campaign are in the blog post [Quagga Mussel Monitoring in Lake Zurich — Tracking an Invasion in Real Time]({% post_url 2026-07-20-quagga-mussel-monitoring-lake-zurich %}).
+Field impressions from the July 2026 campaign are in the blog post [Quagga Mussel Monitoring in Lake Zurich — Tracking an Invasion in Real Time](/blog/2026/quagga-mussel-monitoring-lake-zurich/).
 
 For comparison, in Lake Constance, where the Quagga mussel has been established since 2016, densities reach around 8,000 individuals per square metre. Lake Zurich may be heading in the same direction.
 

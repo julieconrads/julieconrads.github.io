@@ -16,6 +16,14 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+
+# Multi-language support (jekyll-polyglot). German pages live under /de/.
+# A page is translated by adding a copy with `lang: de` and the same permalink;
+# untranslated pages fall back to English.
+languages: ["en", "de"]
+default_lang: "en"
+exclude_from_localization: ["assets", "robots.txt", "sitemap.xml", "feed.xml", "CNAME", ".nojekyll"]
+parallel_localization: false
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://julieconrads.github.io # the base hostname & protocol for your site
@@ -211,6 +219,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
+  - jekyll-polyglot
   - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
@@ -227,9 +236,14 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: ""
+    values:
+      lang: en
 
 sass:
   style: compressed
+  sourcemap: never # required by jekyll-polyglot
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier

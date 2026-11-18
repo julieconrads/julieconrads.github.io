@@ -1,0 +1,53 @@
+# Interface labels used by the layouts and includes (German).
+# Must have the same keys as _data/en/strings.yml. Swiss spelling: "ss", never "ß".
+
+language_name: Deutsch
+language_switch: DE
+
+news: neuigkeiten
+latest_posts: neueste beiträge
+selected_publications: ausgewählte publikationen
+no_news: Noch keine Neuigkeiten...
+no_posts: Noch keine Beiträge...
+
+created_on: Erstellt am
+last_updated_on: zuletzt aktualisiert am
+references: Literatur
+min_read: Min. Lesezeit
+
+related_title: Hat Ihnen dieser Beitrag gefallen?
+related_intro: "Hier sind weitere Beiträge, die Sie interessieren könnten:"
+subscribe: "Abonnieren Sie, um über neue Beiträge informiert zu werden:"
+
+copyright: Copyright
+last_updated: "Zuletzt aktualisiert:"
+
+months_short: [Jan., Feb., März, Apr., Mai, Juni, Juli, Aug., Sept., Okt., Nov., Dez.]
+months_long: [Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember]
+
+cv:
+  present: heute
+  contact_information: Kontaktinformationen
+  name: Name
+  professional_title: Berufsbezeichnung
+  email: E-Mail
+  phone: Telefon
+  location: Ort
+  website: Website
+  professional_summary: Profil
+  # Section headings, keyed by the section names used in _data/de/cv.yml (kept in English)
+  sections:
+    Education: Ausbildung
+    Experience: Berufserfahrung
+    Awards: Auszeichnungen
+    Attended Courses and Workshops: Besuchte Kurse und Workshops
+    Attended Conferences and Seminars: Besuchte Konferenzen und Seminare
+    Organization of Conferences: Organisation von Konferenzen
+    Publications: Publikationen
+    Datasets: Datensätze
+    Tutoring and Supervision: Betreuung und Lehre
+    Outreach Activities and Media Coverage: Öffentlichkeitsarbeit und Medienberichte
+    Field Work Experience: Erfahrung in der Feldarbeit
+    Skills: Fähigkeiten
+    Interests: Interessen
+    References: Referenzen
