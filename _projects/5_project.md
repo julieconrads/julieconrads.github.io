@@ -2,7 +2,7 @@
 layout: page
 title: "Quagga Mussel Monitoring: Lake Zurich"
 description: Following the Quagga mussel invasion of Lake Zurich from its first detection in 2024, through annual monitoring with the canton of Zurich (AWEL).
-img: assets/img/blog/PXL_20260708_121521896.jpg
+img: assets/img/blog/P7080184.jpg
 importance: 2
 category: PhD Projects
 related_publications: false
